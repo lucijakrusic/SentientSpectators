@@ -1,0 +1,232 @@
+G01Q01|Mi pobre Vecino, posseìdo de una furiosa frenesì, enagenado de sì mismo, y sofocado de rabia, se enfurecia, y maldecia su fortuna, y precipitada audácia.|NEG|anger
+G01Q02|Continuamente la oygo decir à sus solas, y mascando, que no quiere hablar, ni decir cosa alguna; pero que teniendo la cabeza sobre la almohada, bien sabe.|NEU|no_agreement
+G01Q03|Matò à un Joven por haver murmurado de la conducta de una Dama, la que èl mismo havia deshonrado con un proceder infame.|NEG|disgust
+G01Q04|,Pero no havia pisado sus umbrales, quando la Discordia, y el Engaño, seguidos de una numerosa comiva, quedaron suspensos, y atonitos, aguardando con respestuoso silencio, el paradero de una aparicion tan opuesta à su gusto.|NEU|no_agreement 
+G01Q05|Su tierno corazon, su espiritu admirable, su modestia, su urbanidad, su bella presencia, su buena crianza, y la obligacion que tengo à sus rendimientos, desde el primer momento que me viò, merecen la atencion de qualquiera.|POS|joy
+G01Q06|Otra Señorita, hermosa por extremo, garbosa de talle, de un oìdo admirable, y de una voz aplaudida, tiene à pesar de tantas prendas, el defecto, que, quando sale à baylar, sus rancadas, y sacudimientos destemplados, dàn à conocer, que quiere agradar con afectacion ridicula.|NEG|no_agreement
+G01Q50|Tiene algunos intervalos de juicio; pero luego le buelve el frenesì con mayor fuerza.|NEG|no_agreement
+G01Q51|El Mayorázgo disipa sus rentas sin conocimiento del trabajo que costó adquirirlas á sus antepasados.|NEG|disgust
+G01Q07|Mi muger aborrece hasta el nombre de Cortejo, y su sencillèz no le permite entender cómo puede haver Dama, que tenga intimidad, llaneza, ni confianzas con quien no es su marido.|NEG|disgust
+G01Q08|No es chanza: la mayor parte de los hombres no saben santiguarse.|NEG|surprise
+G01Q52|Y ha de saber Vm. que por la vanidad de estas gentes tienen atadas las manos algunos vecinos de caudal, que como buenos vasallos, desean corresponder á las piadosas intenciones de nuestro Católico Monarca, y concurrir con sus facultades para el remedio de los pobres, que son muchos en este Pueblo.|NEG|sadness
+G01Q53|Pues ha de saber Vmd. que, como si fuera un disparate quanto sale de mi boca, lo mismo es articular una palabra, que celebrarla todos con unos elogios y unas admiraciones, que yo conozco que son una verdadera burla; porque, reflexionando en lo que acabo de decir, veo bien que qualquiera diria otro tanto.|NEG|no_agreement
+G01Q9|El amor, que todos tenemos à la libertad, impedirà quizà que mis advertencias hagan impression en vuestro espiritu.|NEU|no_agreement
+G01Q54|Si el amigo no hallaba este espediente para apartar el pronóstico, yo no dudo que en la misma noche, muchas de aquellas Señoras hubieran caido enfermas.|NEG|no_agreement
+G01Q10|La lectura à que yo intento conduciros, solo podrà mejorar vuestro talento, y éste tambien lograrà enmendarse por medio de la prudencia, y discrecion en todo.|POS|trust
+G01Q55|No nos desviamos de la verdad si comparamos á nuestros Médicos con los antiguos Bretones, en tiempo de Cesar; unos mataban á pie, otros estando en carro.|NEG|no_agreement
+G01Q11|Huid, Señora, de éstas, y preferid à su comunicacion la de las mas viles, y comunes mugeres; porque éstas no son, sino Demonios con faldas.|NEG|fear
+G01Q12|Yo soy un hombre, que por lo ordinario gusto de ir contra la corriente.|NEU|no_agreement
+G01Q13|Convencerá tal vez nuestro espiritu; pero poco importa: no gana, no somete nuestro corazon; y à pesar de sus raciocinios artificiosos, tenemos bastante fuerza para resistirle.|POS|trust
+G01Q14|Una muger hermosa, y entendida nos convence casi sin que lo conozcamos.|POS|surprise
+G01Q56|Semejantes documentos, apenas se aprenderán en un mes.|POS|no_emotion
+G01Q57|Pero pocas Damas tengo báxo mi direccion, que desde que entraron en mi academia, no sepan dar un golpe de Abanico, sin que se oiga de una extremidad de la sala á otra; ántes bien descargan unos golpes tan fuertes, que el ruido iguala al de un pistolete.|POS|joy
+G01Q15|Esta parte es la mas dificultosa de todo el exercicio.|NEU|no_emotion
+G01Q16|El ocioso quiere un espectaculo, que le haga sobrellevar alguna parte del tiempo, que le pesa.|NEG|disgust
+G01Q58|Tiene un gabinete muy primoroso donde se retira á las horas señaladas: allí se compone, y allí dice sus oraciones.|no_agreement|no_emotion
+G01Q59|A una persona de esta cláse, se le oirá decir frequentemente: yo soy la persona mas perezosa del mundo.|NEG|no_agreement
+G01Q60|Una muger de esta cláse, es sucia en su casa, golosa en su mesa, desaliñada en sus vestidos y persona, y la habitacion que ella ocupa, se asemeja á una caballeriza.|NEG|disgust
+G01Q17|Las quisieron virtuosas, y las tienen virtuosas: ellas les conquistaron con el recato el miramiento, el pundonor, y el retiro, y asi ellos no tienen de que arrepentirse, porque se hallan con mugeres recatadas, de miramiento, pundonorosas, y retiradas.|POS|joy
+G01Q61|El de la izquierda encerraba imprecaciones, juramentos, ansias y congojas.|NEG|no_emotion
+G01Q62|Quanto mas lo miraba tanto mas me parecia haberle visto en cierto pais, sin poderme acordar ni del tiempo, ni del parage.|NEU|surprise
+G01Q18|Finalmente, era lo mas recóndito de él, y con el auxîlio de nuestros microscopios descubrimos un hombre pequeñito vestido de color de panza de sapo muy a lo petimetre.|NEG|surprise
+G01Q63|Poco habia yo andado por esta morada, quando vi á lo léjos que remataba en un templo de arquitectura antigua, pero muy regular, y de gran magnificencia.|NEU|no_agreement
+G01Q64|Pero una vez que veo con tanto gusto de mi corazon los religiosos sentimientos del suyo, desde luego le doy y recibo la enhorabuena.|POS|joy
+G01Q65|¡O miserables traductores!|NEG|anger
+G01Q19|Y finalmente, que le traba como à hombre, para que llegase à serlo.|POS|trust
+G01Q20|Si estuviese en su lugar, me decia yo á mí mismo.|NEU|no_emotion
+G01Q66|Mi primer intento, dice, fué purgar aquel despreciable embrion de sus muchos errores, para poderlo leer en una tertulia de amigos.|NEG|disgust
+G01Q21|Su trato á todos embiste, à ninguno hace visita, siendo en él cosa exquisita un semblante semi-triste: las tentaciones resiste; pero no cabilaciones, de forma, que las questiones son el manà que sustenta la maquina macilenta de tales obligaciones.|NEG|no_agreement
+G01Q67|Señor Regañon: Como buen amante de la patria no puedo ménos de confesar á vmds. que habiendo leido los Números 1 y 2 de su periódico acerca de las costumbres públicas, me llené de alegría al ver los juiciosos y acertados pensamientos que en él se vertian, y me propuse desde luego escribir á vmd. dándole las gracias por su comunicacion, y por el buen zelo que muestra en un negocio que tanto interesa á la felicidad de la nacion.|POS|joy
+G01Q68|Tambien suelo yo sonar en mi tinaja, porque, aunque no muy ancho, por fin duermo: esto me sucedió la otra noche, que habiéndome entretenido de dia en leer un discurso del célebre Adisson, tuve por el mismo estilo un sueño, que no puedo dexar de manifestar á su Tribunal de vmd|POS|joy
+G01Q69|Todavía por nuestra desgracia no se han acabado de desarraygar entre la gente crédula los temores que conservan á los duendes, difuntos y fantasmas.|NEG|anger
+G01Q70|Pero en obsequio de la verdad debo decir, que para volver á leer la carta del Amigo de los Jóvenes es menester hígados, y que solo por la nota que lleva al principio puede conocerse á lo que se dirige, ni mas ni ménos que los quadros de aquel pintor, que solo se conocia lo que representaban por un rótulo que ponia debaxo.|no_agreement|no_emotion
+G01Q71|El siguiente nos darà una breve idèa del amor.|NEU|no_emotion
+G01Q22|ò lo que es mas cierto, es algun chusco de primera clase, y pretende con esta estratagema ver si corresponden las obras á las palabras: en fin sea lo que fuere, yo debo cumplir lo prometido, sin entremeterme á investigár el motivo de su demanda.|NEU|no_emotion
+G01Q23|Otra semana sabrèmos los demás articulos de esta Pragmatica.|NEU|anticipation
+G01Q24|ò lo que es mas cierto, es algun chusco de primera clase, y pretende con esta estratagema ver si corresponden las obras á las palabras: en fin sea lo que fuere, yo debo cumplir lo prometido, sin entremeterme á investigár el motivo de su demanda.|NEU|no_emotion
+G01Q25|El cuento es breve; no sé si será compendioso.|NEU|no_agreement
+G01Q26|Lo mismo dice el Entretenido, y pasa adelante.|NEU|no_emotion
+G01Q27|La oferta no era friolera: asi fue llamado à un gavinete, en donde estando con el tyrano à solas: el secreto, señor, le dixo, consiste en que V. M. publique que en efecto se lo he comunicado; y para que todo el mundo lo crea, me dé à mí V. M. como en recompensa un millon.|NEU|no_emotion
+G01Q28|Apostaré algo de bueno, à que algun artificio se ha inventado por gentes mal intencionadas, para hacer que llenen de arrugas las mayores bellezas.|no_agreement|no_emotion
+G01Q72|Pero baylar como acabamos de vèr, y en Madrid, y esto, como Vmd. dice, para agradar à gentes de depravado gusto; què es, sino degradar la sublimidad de los talentos, y envilecer la capacidad de los hombres.|NEG|disgust
+G00Q52|Nos haria Vmd. tambien un favor, à que deberiamos un eterno reconocimiento, en interesarse con ellos para que yá que la fortuna no ha querido tratarnos mas favorablemente, y yá que no nos es dado gozar todas las ventajas de una Corte, tengan la bondad de dexarnos vivir contentos con nuestra suerte, y con nuestras cosas, y no nos estén continuamente dando en cara con nuestra rusticidad.|NEG|anger
+G00Q53|Semejantes al perro de la fabula, que suelta el bocado que tiene entre los colmillos por el que juzga ver en el agua; dexan los verdaderos placeres que la naturaleza les está franqueando al rededor suyo, por otros que les finge su imaginacion à larga distancia.|NEG|sadness
+G00Q54|En una palabra, Señores: lo que antes sería ociosidad viciosa, ò inutilidad de vida hoy yá casi es una virtud.|NEG|no_agreement
+G00Q55|Reynaba en todos el contento, y el ayre resonaba con los alegres cantares de que acompañaban su trabajo.|POS|joy
+G00Q56|Que enemigo de toda nueva resolucion sea el Patrono declarado de la holgazanería, el error, y la ignorancia.|NEG|disgust
+G00Q57|Le confieso á vmd. que me tuvo largo tiempo en una zozobra no facil de explicarse.|NEG|no_agreement
+G00Q58|Mi abuelo mataba Moros como asi me lo quiero.|POS|no_emotion
+G00Q59|En esa calle que atraviesa, número 6. quarto principal, vive cierto sugeto que tiene una hija única, de edad de treinta y siete años, muy linda de cara, muy rica, muy hacendosa, muy humilde, muy buena christiana, muy juiciosa, y por decirlo en pocas palabras muy completa y acabada.|POS|no_agreement 
+G00Q60|No crea Vmd. amigo mio, que lo que habló ese sugeto en el Café sea original, ni tomado de Libros Extrangeros: los ignorantes como Vmd. (perdoneme que le hable con esta claridad) y otros que andan por esas calles de todos estados, clases y condiciones, blasfeman de quanto ignoran: Católico y muy Católico, Español y muy Español, dixo eso y mucho mas un siglo y medio hace.|NEG|no_agreement
+G00Q61|Tal es la elegante composicion poética que incluyo á Vmd., y que publicada, serviría de muestra de un Latin clarísimo, que ya va escaseando, y ofrecería al mismo tiempo una provechosa leccion á los que abandonando los estudios que dan honradamente de comer, se entregan á la estéril ocupacion de las Ciencias exâctas, de las Humanidades, y otras fútiles taréas recomendadas por los Modernos.|POS|no_agreement
+G00Q62|Mis cabellos son mas obscuros que el corazon de un ignorante, y tan largos, que pueden ser envidiados de las mismisimas trenzas de las Ninfas del Parnaso; mi cuerpo es tan alto como pueden ser los pensamientos de Vmd. con el aditamento de un tallecito mas estrecho que la mano de un avaro.|POS|no_agreement
+G00Q63|Y para que Vmd se acabe de asegurar de sus inauditas extravagancias, la misma moda de vestir, y la mismisima de peynado que habia quando se casó, esas propias sin quitar ni poner ha conservado inviolablemente hasta de un corto tiempo á esta parte.|POS|no_agreement
+G00Q64|Es una vergüenza, un escándalo.|NEG|anger
+G00Q65|¿Hé de verme yo obligada hasta la muerte (que continuamente estaré deseando por considerarla término de mis infelicidades) á hacerme criada del que aborrezco?|NEG|sadness
+G00Q66|¡Cómo podré sufrir las finezas de la obligacion de mi consorte, quando le aborrezco!|NEG|no_agreement
+G00Q67|Donde el frio es excesivo y no permite á los Americanos andar desnudos, es notorio que visten de pieles para defenderse de su rigor: y nosotros pudiendo usar de otros arbitrios de que carecen aquellos Salvages, compramos dichas pieles á excesivos precisos, siendo en nuestra opinion el mas magnífico y noble adorno con que nos podemos presentar en las mas brillantes y numerosas concurrencias.|NEG|no_agreement
+G00Q68|Nada tengo de zeloso, y antes me fastidian notablemente los maridos que andan siempre aforrados en sus mugeres.|NEU|no_emotion
+G00Q69|Semejantes al perro de la fabula, que suelta el bocado que tiene entre los colmillos por el que juzga ver en el agua; dexan los verdaderos placeres que la naturaleza les está franqueando al rededor suyo, por otros que les finge su imaginacion à larga distancia.|NEG|no_agreement
+G00Q70|El leon sabiamente ocupado en dar curso á objetos importantes de su real instituto, Llamó á los Abogados, y Jueces de este asunto, y con voz muy severa como Rey les habló de esta manera.|NEU|no_emotion
+G00Q71|Pruebolo asi (continué yo) sin embargo de no ser hombre de carrera, pero sí un bonus vir con su alma tal y tan racional como la del Autor del papelito intitulado los Censores del Censor, y la añadidura de ser mis estudios, igualmente tal y tan buenos como pueden ser los del susodicho venerable; y no espere Vmd largos silogismos, brevemente expondré mi sentir; pruebolo asi, repito.|NEU|no_agreement
+G00Q72|No puedo sufrir ver hacer actos de virtud y devocion á los logreros, usureros, comerciantes de mala fé, avaros, codiciosos, y á los de una economia sórdida.|NEG|disgust
+G00Q73|Mi amiga me ha dicho que Vm. no gusta de las Monjas disgustadas; por esto no hemos de tener quiebra, pues aunque, como he dicho, estuve disgustadilla, ya he caido en la cuenta, y he dado en el punto, conociendo que mas son los bienes que los males.|no_agreement|no_emotion 
+G00Q74|No Señor, no soy yo asi, no soy ningun satírico chocarrero; yo hablo de veras, y con vm. en todo caso no me habia de chancear.|NEU|no_emotion
+G00Q75|¡Qué bien sabrá discernir el caracter de los hombres!|POS|no_agreement
+G00Q76|Tambien es de admirar el entusiasmo con que sus mercedes nos pregonan, y aun nos muelen la cabeza con sus globos, con sus gases y aereas caminatas, ni mas ni ménos que si ellos lo hubieran proyectado y discurrido.|NEU|no_emotion
+G00Q77|Aunque supongo vuestra universal erudicion en todo género de literatura, no es razon que empleeis vuestro talento en aquellas ciencias que por su aridez y abstraccion os deberian obligar á que anduvieseis siempre pensativos, y como fuera de vosotros, con notable perjuicio de vuestra importante salud.|NEU|no_emotion
+G00Q78|Pero vea Vm. que diablo de hombre: antojosele ponerla unas notas ó glosas de su cosecha, que todo lo hechan [sic] á perder, de suerte que ya no vale tres pepinos, ni se puede leer sin asco: he aqui la grande habilidad del Censor.|NEG|no_agreement
+G00Q79|Ultimamente, para que ninguno de vosotros se atreva en lo sucesivo á quexarse de que soy escrupuloso y nimio en los preceptos que os doy, ligandoos precisamente á su literal observancia, asi como os impetré facultad para escribir, aun sin los necesarios requisitos, la he conseguido igualmente, y os la concedo amplísima para apologizaros á vuestro gusto, y para alterar, trastornar, pervertir y torcer, como quisiereis, quanto se escriba contra vosotros.|POS|no_agreement
+G00Q80|No puedo menos de irritarme al oir semejantes despropositos y locuras. |NEG|anger
+G00Q81|Pero la zorrilla Les dixo con gracia: No muelan ustedes, Y esten enteradas Que este y otros monos Que van en dos patas, Lo critican todo Sin saber de nada.|NEG|no_agreement
+G00Q82|El segundo defecto que vmd. me nota es que llamo alto al dolor ó sentimiento de Inés, y maligna á su pesadumbre ó pesar, que vale lo mismo; cuyos desaciertos se contienen en los quatro siguientes versos. |NEG|no_agreement
+G00Q83|Deliberé poner en práctica mi intento á toda costa, y que á pocos dias de casado comencé á ver la imagen funesta de mis infortunios, y á sufrir todas las penalidades que me anunció. |NEG|no_agreement
+G00Q84|Que yo pobre de mí me veía lánguido y estenuado, postrado en una cama, abandonado hasta del mas ínfimo sirviente.|NEG|sadness
+G00Q85|De esto nace que el señor Don Bartolo se constituya paseante de Villa, y que esta única y exclusiva ocupacion le impida el sujetarse al trabajo para mantener con su sudor su infeliz é inútil exîstencia.|NEG|disgust
+G00Q86|Los desgraciados no ven en su padre un protector y zelador de sus felicidades, y sí un monstruo que solo les ha dado el ser para que sean testigos de sus delitos, y esclavos de sus desordenados é injustos caprichos; estas son pues las conseqüencias del juego inmoderado.|NEG|sadness
+G00Q87|Siguiendo la misma costa estuvimos en él mayor riesgo de ser sumergidos, y para evitar el peligro soltamos una áncora, y un garfio á cada lado del baxel, sobre un fuerte pedazo de yelo, al qual se amarraron uno y otro.|NEU|no_agreement
+G00Q88|Considerad pues, que si no tiene a una buena educacion, en vosotros ha consistido, á pesar de todo lo que podais decir, y sabed finalmente que un hombre honrado, aunque ignorante, es mas digno de respeto que uti hombre malo lleno de ciencia. |NEU|no_agreement
+G00Q89|Para hacer que se aborrezca lo malo y se ame lo bueno, agregaré siempre el placer á esto último, y el odio á lo primero.|NEU|no_agreement
+G00Q90|No conocen el dulce placer que resulta de haber socorrido al indigente, y de tomar parte en sus necesidades, y no han gustado aquel consuelo, que tal vez arranca lagrimas á un corazon tierno y sensible al ver el reconocimiento de una familia que ha probado los efectos de su beneficencia.|POS|no_agreement
+G00Q91|El padre no podia fiarse de su hijo, la mujer engañaba al marido, el criado era infiel á su amo, la sana amistad, la tierna fraternidad no eran mas que máscaras que ocultaban los mas perversos designios: toda virtud estaba desterrada, reynando en su lugar la hipocresía. |NEG|sadness
+G00Q92|Si se tropieza con alguno de estos ignorantones de por vida, cuya vanidad y obstinacion son todavia mayores que su necedad, se echa mano del ridículo, de esta feliz arma que ha libertado á la nacion de muchos malos autores, y con esta diversidad de estilos se instruye al público, y se observa aquello de...|NEU|no_agreement
+G00Q93|Y si por el contrario merecen e desprecio y olvido, debe clamar contra ellas para que no suenen entre los hombres, y mandar se quemen los libros que las contienen, ó al menos mandar expurgarlos: poco quedara de ellos si esto se hace.|NEG|no_emotion
+G00Q94|En estos dudosos é incomprehensibles principios resolvió el Doctor Brown fundar su sistema, un dia en que, segun todas las apariencias, habia usado con exceso de su remedio favorito contra la gota, y estaba, como solemos decir, á mas de media carga.|NEG|no_agreement
+G00Q95|Pero todos estos habladores estúpidos y orgullosos, fanáticos ó temerarios, parecia que unian sus gritos para hacer una sola súplica.|NEG|no_agreement
+G00Q96|Para decir que esta comedia no es buena no hay necesidad de ensangrentarse añadiendo que el discurso preliminar es un fárrago de ideas insulsas é inconexas expuestas en un estilo todavía mas insulso y despreciable, sin conocimientos, ni gusto, ni lógica siquiera.|NEG|no_emotion
+G00Q97|No puedo comprehender el origen de tu cobardía, me confundo quando miro tu flaqueza, y que tus contrarios, aunque débiles, han conseguido su fin: quando me creia que ganarias la batalla, te observo entregado á discrecion, rendido por fuerzas inferiores, y asaltada y destruida la fortaleza de tu ciencia.|NEG|no_agreement
+G00Q98|Ebrios voraces entregaos libremente á vuestros detestables vicios, que no dexareis de experimentar cargado extremamente vuestro obeso cuerpo, perdido enteramente vuestro juicio, y hecho el oprobio hasta de vuestros mayores amigos y parientes.|NEG|disgust
+G00Q99|Muchos enemigos ocultos ha tenido este útil establecimiento, pero uno tuvo la osadía de presentarse al público, y fué castigado por el desprecio universal; no tuvo un mes de existencia.|no_agreement|no_agreement
+G00Q100|Pero yo entiendo que este dictado no le corresponde por la indolencia que en él se advierte de insertar á troche y moche quantas cartas se le dirigen, y da al público como su madre las parió.|NEG|disgust
+G00Q101|Honrado sin afectacion, sincero en realidad, complaciente sin baxeza, servicial sin interes, humano y benéfico, es el santuario de la virtud.|POS|trust
+G00Q102|Mi hermana hace ya tres años que está viuda.|NEU|no_agreement
+G00Q103|Mientras esto, no se remedie de algun modo, no hay que contar con algun adelantamiento ni mejora.|NEG|no_agreement
+G00Q104|Es cierto que el amor propio conociendo esta verdad suministra á los vengativos razones especiosas para cohonestar sus feas acciones, pero estas mismas demuestran su debilidad y falta de talento.|NEG|no_emotion
+G00Q105|El hombre tierno y compasivo es el que disfruta las riquezas, y no el avariento que las amontona, ni el mundano que las malgasta en falsos placeres.|NEU|no_emotion
+G00Q106|Y por último, manifestó su piedad y religión quitando del suplicio a tres reos que iban a ser ajusticiados (juzgo) que en un día privilegiado.|POS|joy
+G00Q107|Porque tú no dudes que la mujer muy hermosa (por lo común) es el peor enemigo del hombre: si es honrada, tiene que defenderse y defenderla de los seductores; si no lo es, tiene que guardarse de ella y de ellos.|NEG|no_agreement
+G00Q108|Nó se metió con las Damas; que el Duende es mui Caballero, i ni aún en chanza les falta á las Dámas el respeto. |POS|no_emotion
+G00Q109|Gente víl, por fin i postre, si no refieralo el hècho. |NEG|no_agreement
+G00Q110|Los presumidos que llevan comunmente la voz en las Tertulias, y Estrados, se valen de esta propia manìa de la Moda, para encubrir, y cohonestar su insolente ignorancia. |NEG|no_agreement
+G00Q111|Rióse el amigo, oyendo los despropositos del Oficial codicioso, y le dixo: Bien conozco, que le acomodara à V.m. bellamente el titulo de Marido, y que lo serà de gusto, y à la Moda.|no_agreement|no_emotion
+G00Q112|La solicitud con que aquel cèlebre Còmico estudiò las passiones de los hombres, le procurò expedientes para purgar el trato humano de una infinidad de extravagancias, que fatigaban à los discretos.|no_agreement|no_agreement
+G00Q113|Pues en medio de los aplausos, que les daba el Pueblo, les llenaban de baldones, è injurias, gentes que alquilaban para burlarse de ellos, y de sus glorias, à fin de humillarlos, y de darlos à conocer el poco caso, que merece una Grandeza precaria, y concedida por un momento.|NEU|no_agreement  
+G00Q114|Què de gentes de todas classes, y estados se confunden allì, sin respeto, ni consideracion para nadie!|NEG|no_agreement 
+G00Q115|Si no le asusta, altera, ni inquieta la Critica, ni las murmuraciones; tampoco le hinchan, engrien, ni ensobervecen las alabanzas, y gloria del acierto.|NEU|no_agreement 
+G00Q116|Si me atreviera, suplicarìa à Vm. de dàr todo quanto gusto sea possible à la Novia; porque aspiro al honor de que mi funcion sea juzgada, la mas lucida de quantas havrà entre sus Amigas, y Conocidas, con el motivo de sus Visitas.|no_agreement|no_agreement
+G00Q117|No hay peor compañia, que la de ancianos encaprichados del privilegio de sus años, que reducidos al silencio, dicen, que las materias no son para los de edad regular.|NEG|disgust
+G00Q118|He hecho una provision de cinquenta gruessas de Parasoles de Encerado, de que la mayor parte tengo yà recibido, y no siendo justo, que sufran mis interesses, por solo un Parasol de Tafetan, le suplìco à Vm. amoneste, y avise al Pùblico, que le ruego no adopte esta Moda, hasta que yo tenga sacado mi dinero, del abasto que he hecho de Parapluies: siendo cierto (como Vm. no ignora) que si se dexa vèr otro Parasol de Tafetan à las doce del dia por estas Calles, los Lacayos no querràn servirse mas de Encerado, lo que para mì serà de sumo perjuicio. |no_agreement|no_agreement
+G00Q119|El Principe que viò el engaño de sus cabellos, la dixo con estudiada indiferencia: què partido tomaria, si la diessen à escoger entre ser cana, ò calva.|NEU|no_agreement
+G00Q120|Pero con hacienda presente, con titulos en prespectiva, con nacimiento aventajado, que no puedan las consideraciones placenteras dèl gozar: y por esto es dificil resolverme à renunciar à los recreos, y diversiones ruidosas de la Corte.|NEG|sadness
+G00Q121|Los que llamamos Poderosos, viven en una esplendida, y orgullosa miseria, siempre necessitados. |NEG|disgust
+G00Q122|No rectifica con menos satisfacion, y complacencia una errata del Impressor, que otros enmendarìan un equìvoco, ò error en el mas delicado sentimiento, ò en la mas elegante palabra|no_agreement|no_agreement
+G00Q123|Sin embargo de las restricciones de tu honestidad, todo te viene como pintado, y es en tì primor aun el descuido.|POS|no_emotion
+G00Q124|Considereme Vm. pues, raro, delicado, sin contemplacion, pagado de mi dictamen, engreído con un cierto merito, que me he figurado, y finalmente, haciendo tanta vanidad de mi Philosophia, como pudiera un Principe de sus titulos, y de sus Estados.|NEG|no_agreement
+G00Q125|Pero aquella Dama, y este Caballero (dice Vm.) son de edad abanzada, para que hayan podido incurrir en semejante ridiculèz!|NEG|disgust
+G00Q126|Está capáz de entristecer à la compañia mas alegre.|NEG|sadness
+G00Q127|Está capáz de entristecer à la compañia mas alegre.|NEG|sadness
+G00Q128|Es solo: incapáz de tener amigos: sin conocer parientes, y casi la mitad de su cuerpo en el sepulcro; y atesora con fatiga para los que han de llenar su memoria de oprobrios.|NEG|disgust
+G00Q129|Que la Nobleza es una calidad muy estimable en los que la adquirieron, ò la mantienen con acciones dignas; pero inutil, ridicula, y aun despreciable en los que, haviendo nacido nobles, se hacen plebeyos por sus procedimientos.|NEU|no_agreement
+G00Q130|Yá véo, que esto no es tan facil, como parece, y que esta operacion pide un genio consumado en el Arte, un gusto, una delicadeza, un tacto fino, un discernimiento justo, y un estudio particular del corazon humano, y de las costumbres, y por desgracia ninguna de estas calidades possee el traductor, quando ha cometido error tan grossero.|NEG|no_agreement
+G00Q131|Es un Fenix entre los hombres.|POS|joy
+G00Q132|Es un Fenix entre los hombres.|POS|joy
+G00Q133|Pero todo esto es inutil, y èl ha hallado el modo de obscurecer las prendas, de que està adornado, entregandose à tantos vicios, y haciendo una vida tan licenciosa, que es el escandalo de la Corte.|NEG|disgust
+G00Q134|Conociò su yerro, y procurò enmendarlo escribiendo segunda Carta, que empezò por Mi Señor; pero fuè inutil la enmienda. |NEG|sadness
+G00Q135|El modo de quedar ayrosos les es muy facil.|NEG|no_agreement 
+G00Q25|La fama y los ilustres contratiempos Recordará con lágrimas Prosigue Si esto no basta, y te dirá qué año.|NEG|no_agreement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

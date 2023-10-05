@@ -1,0 +1,406 @@
+Sentence Code,To Annotate,Proposed Polarity,GPT
+G00Q136[1].,"Miralos sin humanidad, y como esclavos, y ellos à su vez la sirven sin respeto, sublevados contra su tyranìa.",positive,No
+G00Q136[2].,"Miralos sin humanidad, y como esclavos, y ellos à su vez la sirven sin respeto, sublevados contra su tyranìa.",neutral,No
+G00Q136[3].,"Miralos sin humanidad, y como esclavos, y ellos à su vez la sirven sin respeto, sublevados contra su tyranìa.",negative,Yes
+G00Q137[1].,"Miralos sin humanidad, y como esclavos, y ellos à su vez la sirven sin respeto, sublevados contra su tyranìa.",positive,No
+G00Q137[2].,"Miralos sin humanidad, y como esclavos, y ellos à su vez la sirven sin respeto, sublevados contra su tyranìa.",neutral,No
+G00Q137[3].,"Miralos sin humanidad, y como esclavos, y ellos à su vez la sirven sin respeto, sublevados contra su tyranìa.",negative,Yes
+G00Q138[1].,No es tan facil determinar por dónde se ha de dár principio à la accion Dramatica.,positive,No
+G00Q138[2].,No es tan facil determinar por dónde se ha de dár principio à la accion Dramatica.,neutral,Yes
+G00Q138[3].,No es tan facil determinar por dónde se ha de dár principio à la accion Dramatica.,negative,No
+G00Q139[1].,"Tù debes acordarte de la ternura, con que se portan las madres de mi País: del cuidado, con que nos crian, y de las atenciones, que les merecemos.",positive,No
+G00Q139[2].,"Tù debes acordarte de la ternura, con que se portan las madres de mi País: del cuidado, con que nos crian, y de las atenciones, que les merecemos.",neutral,Yes
+G00Q139[3].,"Tù debes acordarte de la ternura, con que se portan las madres de mi País: del cuidado, con que nos crian, y de las atenciones, que les merecemos.",negative,No
+G00Q140[1].,"Alli estarà mas tranquilo, y podrà vivir à su gusto, y de contado no nos incomodarèmos uno á otro.",positive,No
+G00Q140[2].,"Alli estarà mas tranquilo, y podrà vivir à su gusto, y de contado no nos incomodarèmos uno á otro.",neutral,Yes
+G00Q140[3].,"Alli estarà mas tranquilo, y podrà vivir à su gusto, y de contado no nos incomodarèmos uno á otro.",negative,No
+G00Q141[1].,"Confiesso à Vm. que yá no puedo sufrir la vida, que traygo con este afligido genio mio.",positive,No
+G00Q141[2].,"Confiesso à Vm. que yá no puedo sufrir la vida, que traygo con este afligido genio mio.",neutral,Yes
+G00Q141[3].,"Confiesso à Vm. que yá no puedo sufrir la vida, que traygo con este afligido genio mio.",negative,No
+G00Q142[1].,"Algunas veces me contento con arquear las cejas, y encoger los hombros.",positive,No
+G00Q142[2].,"Algunas veces me contento con arquear las cejas, y encoger los hombros.",neutral,Yes
+G00Q142[3].,"Algunas veces me contento con arquear las cejas, y encoger los hombros.",negative,No
+G00Q143[1].,"Muriò en mis brazos, y en el desorden, en que me hallaba, me pareciò, que su pecho aùn respiraba.",positive,No
+G00Q143[2].,"Muriò en mis brazos, y en el desorden, en que me hallaba, me pareciò, que su pecho aùn respiraba.",neutral,Yes
+G00Q143[3].,"Muriò en mis brazos, y en el desorden, en que me hallaba, me pareciò, que su pecho aùn respiraba.",negative,No
+G00Q144[1].,"Pues soy muy goloso de dulces, apetezco olores, fina ropa blanca, y me muero por otras frioleras de este jaèz;",positive,No
+G00Q144[2].,"Pues soy muy goloso de dulces, apetezco olores, fina ropa blanca, y me muero por otras frioleras de este jaèz;",neutral,Yes
+G00Q144[3].,"Pues soy muy goloso de dulces, apetezco olores, fina ropa blanca, y me muero por otras frioleras de este jaèz;",negative,No
+G00Q145[1].,"Interpretan una ojeada, hallan intento en un gesto risueño, dàn un nuevo sentido à las palabras, y acciones; y habiles en atormentarse, se espantan de su propria sombra",positive,No
+G00Q145[2].,"Interpretan una ojeada, hallan intento en un gesto risueño, dàn un nuevo sentido à las palabras, y acciones; y habiles en atormentarse, se espantan de su propria sombra",neutral,Yes
+G00Q145[3].,"Interpretan una ojeada, hallan intento en un gesto risueño, dàn un nuevo sentido à las palabras, y acciones; y habiles en atormentarse, se espantan de su propria sombra",negative,No
+G00Q146[1].,"Quisiera Vm. que yo dijera, que esto propriamente se llama echar tierra à los ojos, y alucinar à ignorantes; y que si esto no es falta de caridad, calumnia, è impostura, digna del mas severo castigo, no hay otro nombre que darle; y que fuera mucho mejor, que el señor mio, se curára esta lepra, y no amenazára al Pensador con la de Ozìas, que el que le aconseje, que oyga con docilidad los Sermones.",positive,No
+G00Q146[2].,"Quisiera Vm. que yo dijera, que esto propriamente se llama echar tierra à los ojos, y alucinar à ignorantes; y que si esto no es falta de caridad, calumnia, è impostura, digna del mas severo castigo, no hay otro nombre que darle; y que fuera mucho mejor, que el señor mio, se curára esta lepra, y no amenazára al Pensador con la de Ozìas, que el que le aconseje, que oyga con docilidad los Sermones.",neutral,Yes
+G00Q146[3].,"Quisiera Vm. que yo dijera, que esto propriamente se llama echar tierra à los ojos, y alucinar à ignorantes; y que si esto no es falta de caridad, calumnia, è impostura, digna del mas severo castigo, no hay otro nombre que darle; y que fuera mucho mejor, que el señor mio, se curára esta lepra, y no amenazára al Pensador con la de Ozìas, que el que le aconseje, que oyga con docilidad los Sermones.",negative,No
+G00Q147[1].,¿no hay Dios que castigue?,positive,No
+G00Q147[2].,¿no hay Dios que castigue?,neutral,Yes
+G00Q147[3].,¿no hay Dios que castigue?,negative,No
+G00Q148[1].,"""Vayase cada uno donde quisiere, que yá tengo yo possada, y cena en casa de un Vasallo, el unico que he encontrado en este Lugar, porque yo soy Rey de racionales, no de brutos.”",positive,No
+G00Q148[2].,"""Vayase cada uno donde quisiere, que yá tengo yo possada, y cena en casa de un Vasallo, el unico que he encontrado en este Lugar, porque yo soy Rey de racionales, no de brutos.”",neutral,Yes
+G00Q148[3].,"""Vayase cada uno donde quisiere, que yá tengo yo possada, y cena en casa de un Vasallo, el unico que he encontrado en este Lugar, porque yo soy Rey de racionales, no de brutos.”",negative,No
+G00Q149[1].,"Ahora bien, yo no pretendo llevar las cosas al extremo.",positive,No
+G00Q149[2].,"Ahora bien, yo no pretendo llevar las cosas al extremo.",neutral,Yes
+G00Q149[3].,"Ahora bien, yo no pretendo llevar las cosas al extremo.",negative,No
+G00Q150[1].,"Que vivan contentos, y felices todos los hombres en la tierra, es empressa, à que no se ha atrevido, ni Jupiter, ni yo.",positive,No
+G00Q150[2].,"Que vivan contentos, y felices todos los hombres en la tierra, es empressa, à que no se ha atrevido, ni Jupiter, ni yo.",neutral,Yes
+G00Q150[3].,"Que vivan contentos, y felices todos los hombres en la tierra, es empressa, à que no se ha atrevido, ni Jupiter, ni yo.",negative,No
+G00Q151[1].,"Si hablo mucho, si con todos me rio, si me burlo de éste, si al descuido le doy un capirote à aquel, soy malo, soy perverso, soy demasiado astuto.",positive,No
+G00Q151[2].,"Si hablo mucho, si con todos me rio, si me burlo de éste, si al descuido le doy un capirote à aquel, soy malo, soy perverso, soy demasiado astuto.",neutral,Yes
+G00Q151[3].,"Si hablo mucho, si con todos me rio, si me burlo de éste, si al descuido le doy un capirote à aquel, soy malo, soy perverso, soy demasiado astuto.",negative,No
+G00Q152[1].,¡què mal lo conoce V. M.!,positive,No
+G00Q152[2].,¡què mal lo conoce V. M.!,neutral,Yes
+G00Q152[3].,¡què mal lo conoce V. M.!,negative,No
+G00Q153[1].,"Añada Vm. à esto, que tenia una porcion de defectos capitales, por los quales debia ser excluìdo de la Cofradìa; pues ni cantaba, ni tocaba instrumento alguno, ni sabìa mentir, ni engañar, ni murmurar, ni dissimular.",positive,No
+G00Q153[2].,"Añada Vm. à esto, que tenia una porcion de defectos capitales, por los quales debia ser excluìdo de la Cofradìa; pues ni cantaba, ni tocaba instrumento alguno, ni sabìa mentir, ni engañar, ni murmurar, ni dissimular.",neutral,Yes
+G00Q153[3].,"Añada Vm. à esto, que tenia una porcion de defectos capitales, por los quales debia ser excluìdo de la Cofradìa; pues ni cantaba, ni tocaba instrumento alguno, ni sabìa mentir, ni engañar, ni murmurar, ni dissimular.",negative,No
+G00Q154[1].,"Yo sè que su caracter es de amar, y desear lo justo; y desde luego, para que Vms. queden mas satisfechas, le escribirè, à fin de que ataque los vicios en su raíz, y piense sobre la educacion de los hombres, como que de ella se origina toda la corrupcion de la sociedad.",positive,No
+G00Q154[2].,"Yo sè que su caracter es de amar, y desear lo justo; y desde luego, para que Vms. queden mas satisfechas, le escribirè, à fin de que ataque los vicios en su raíz, y piense sobre la educacion de los hombres, como que de ella se origina toda la corrupcion de la sociedad.",neutral,Yes
+G00Q154[3].,"Yo sè que su caracter es de amar, y desear lo justo; y desde luego, para que Vms. queden mas satisfechas, le escribirè, à fin de que ataque los vicios en su raíz, y piense sobre la educacion de los hombres, como que de ella se origina toda la corrupcion de la sociedad.",negative,No
+G00Q155[1].,"Amigo mio, es defecto de historia pensar de este modo: desde los Griegos hay memoria de pendientes, de rizos, de calzados, de adornos, de faustos, de viandas regaladas.",positive,No
+G00Q155[2].,"Amigo mio, es defecto de historia pensar de este modo: desde los Griegos hay memoria de pendientes, de rizos, de calzados, de adornos, de faustos, de viandas regaladas.",neutral,Yes
+G00Q155[3].,"Amigo mio, es defecto de historia pensar de este modo: desde los Griegos hay memoria de pendientes, de rizos, de calzados, de adornos, de faustos, de viandas regaladas.",negative,No
+G00Q156[1].,"Le hago patente que si por razon del fiambre me lleva algo mas de lo lícito, se mama una usurita corriente nacida del mutuo virtual y paliado.",positive,No
+G00Q156[2].,"Le hago patente que si por razon del fiambre me lleva algo mas de lo lícito, se mama una usurita corriente nacida del mutuo virtual y paliado.",neutral,Yes
+G00Q156[3].,"Le hago patente que si por razon del fiambre me lleva algo mas de lo lícito, se mama una usurita corriente nacida del mutuo virtual y paliado.",negative,No
+G00Q157[1].,"No señor: dice tambien, que Dios manda en el Deuteronomio : que á la muger esclava se le rada la cabeza, las cejas y todos los cabellos; que se le hayan de cortar las uñas, y que así será lícito tenerla en matrimonio.",positive,No
+G00Q157[2].,"No señor: dice tambien, que Dios manda en el Deuteronomio : que á la muger esclava se le rada la cabeza, las cejas y todos los cabellos; que se le hayan de cortar las uñas, y que así será lícito tenerla en matrimonio.",neutral,Yes
+G00Q157[3].,"No señor: dice tambien, que Dios manda en el Deuteronomio : que á la muger esclava se le rada la cabeza, las cejas y todos los cabellos; que se le hayan de cortar las uñas, y que así será lícito tenerla en matrimonio.",negative,No
+G00Q158[1].,"Por vida de: pero tate, Que lo que urge por ahora Es dexar la mar en leche, Por si me quiero hacer sopas.",positive,No
+G00Q158[2].,"Por vida de: pero tate, Que lo que urge por ahora Es dexar la mar en leche, Por si me quiero hacer sopas.",neutral,Yes
+G00Q158[3].,"Por vida de: pero tate, Que lo que urge por ahora Es dexar la mar en leche, Por si me quiero hacer sopas.",negative,No
+G00Q159[1].,"Mi edad es entre merced, y señoría, lo que basta para dár consejos acertados, sin que sea preciso escucharlos con disgusto: mi inclinacion es la libertad de una vida, sin la sujecion penosa del matrimonio, ni la esclavitud penosa de un encierro",positive,No
+G00Q159[2].,"Mi edad es entre merced, y señoría, lo que basta para dár consejos acertados, sin que sea preciso escucharlos con disgusto: mi inclinacion es la libertad de una vida, sin la sujecion penosa del matrimonio, ni la esclavitud penosa de un encierro",neutral,Yes
+G00Q159[3].,"Mi edad es entre merced, y señoría, lo que basta para dár consejos acertados, sin que sea preciso escucharlos con disgusto: mi inclinacion es la libertad de una vida, sin la sujecion penosa del matrimonio, ni la esclavitud penosa de un encierro",negative,No
+G00Q160[1].,"el ánimo, que ha de ser grande, nunca es pequeño",positive,No
+G00Q160[2].,"el ánimo, que ha de ser grande, nunca es pequeño",neutral,Yes
+G00Q160[3].,"el ánimo, que ha de ser grande, nunca es pequeño",negative,No
+G00Q161[1].,"Grande es este golpe, no lo niego; pero mayor es el de aquellos, que por descuido, ò ignorancia dieron causa suficiente á este daño.",positive,No
+G00Q161[2].,"Grande es este golpe, no lo niego; pero mayor es el de aquellos, que por descuido, ò ignorancia dieron causa suficiente á este daño.",neutral,Yes
+G00Q161[3].,"Grande es este golpe, no lo niego; pero mayor es el de aquellos, que por descuido, ò ignorancia dieron causa suficiente á este daño.",negative,No
+G00Q162[1].,"Tan flaca, y consumida, que parecía retrato de la misma necesidad.",positive,No
+G00Q162[2].,"Tan flaca, y consumida, que parecía retrato de la misma necesidad.",neutral,Yes
+G00Q162[3].,"Tan flaca, y consumida, que parecía retrato de la misma necesidad.",negative,No
+G00Q163[1].,"¿qué otro empleo la dán mas, que obligarla à celebrar unos hombres, que por viles, ò murieron entre las fatigas de un lazo, ò à las iras crueles de una venganza?",positive,No
+G00Q163[2].,"¿qué otro empleo la dán mas, que obligarla à celebrar unos hombres, que por viles, ò murieron entre las fatigas de un lazo, ò à las iras crueles de una venganza?",neutral,Yes
+G00Q163[3].,"¿qué otro empleo la dán mas, que obligarla à celebrar unos hombres, que por viles, ò murieron entre las fatigas de un lazo, ò à las iras crueles de una venganza?",negative,No
+G00Q164[1].,"Ni tantos ancianos, que en la mas estrecha angustia de la escaséz, buscan el pan con el doble sudor de su rostro, sudan en adquirirle mendigando, y sudan con la vergüenza de haberle de procurar pidiendo.",positive,No
+G00Q164[2].,"Ni tantos ancianos, que en la mas estrecha angustia de la escaséz, buscan el pan con el doble sudor de su rostro, sudan en adquirirle mendigando, y sudan con la vergüenza de haberle de procurar pidiendo.",neutral,Yes
+G00Q164[3].,"Ni tantos ancianos, que en la mas estrecha angustia de la escaséz, buscan el pan con el doble sudor de su rostro, sudan en adquirirle mendigando, y sudan con la vergüenza de haberle de procurar pidiendo.",negative,No
+G00Q165[1].,"Pero será dichoso, y feliz en su estado: no poseerá abundancias, ni se verá lisonjeado;",positive,No
+G00Q165[2].,"Pero será dichoso, y feliz en su estado: no poseerá abundancias, ni se verá lisonjeado;",neutral,Yes
+G00Q165[3].,"Pero será dichoso, y feliz en su estado: no poseerá abundancias, ni se verá lisonjeado;",negative,No
+G00Q166[1].,"No està en esto la gracia, sino es que apenas se vió correspondido, se ausentó de casa, y se fue con sus engaños à otra parte, quedandonos à la Luna de Valencia, sin uno, y sin otro, y la niña tan apesadumbrada, que por poco la pobrecita se muere: estuvo muy mala.",positive,No
+G00Q166[2].,"No està en esto la gracia, sino es que apenas se vió correspondido, se ausentó de casa, y se fue con sus engaños à otra parte, quedandonos à la Luna de Valencia, sin uno, y sin otro, y la niña tan apesadumbrada, que por poco la pobrecita se muere: estuvo muy mala.",neutral,Yes
+G00Q166[3].,"No està en esto la gracia, sino es que apenas se vió correspondido, se ausentó de casa, y se fue con sus engaños à otra parte, quedandonos à la Luna de Valencia, sin uno, y sin otro, y la niña tan apesadumbrada, que por poco la pobrecita se muere: estuvo muy mala.",negative,No
+G00Q167[1].,"Qué contento me hallaba, no obstante mi fatalidad, à el mirar, que si me faltaba la hacienda, la tenìa depositada en aquellos, que tanto se ofrecian, y tan promptos habian ocurrido à mi socorro!",positive,No
+G00Q167[2].,"Qué contento me hallaba, no obstante mi fatalidad, à el mirar, que si me faltaba la hacienda, la tenìa depositada en aquellos, que tanto se ofrecian, y tan promptos habian ocurrido à mi socorro!",neutral,Yes
+G00Q167[3].,"Qué contento me hallaba, no obstante mi fatalidad, à el mirar, que si me faltaba la hacienda, la tenìa depositada en aquellos, que tanto se ofrecian, y tan promptos habian ocurrido à mi socorro!",negative,No
+G00Q168[1].,"porque yo, quando escribo una carta, à excepsion de la fecha, la firma, y el muy señor mio, todo lo demás me cuesta mas gotas de sudor, que si estubiera cabando;",positive,No
+G00Q168[2].,"porque yo, quando escribo una carta, à excepsion de la fecha, la firma, y el muy señor mio, todo lo demás me cuesta mas gotas de sudor, que si estubiera cabando;",neutral,Yes
+G00Q168[3].,"porque yo, quando escribo una carta, à excepsion de la fecha, la firma, y el muy señor mio, todo lo demás me cuesta mas gotas de sudor, que si estubiera cabando;",negative,No
+G00Q169[1].,"Pero hoy no he de irme hasta que venga, por probar si puedo desquitarme.",positive,No
+G00Q169[2].,"Pero hoy no he de irme hasta que venga, por probar si puedo desquitarme.",neutral,Yes
+G00Q169[3].,"Pero hoy no he de irme hasta que venga, por probar si puedo desquitarme.",negative,No
+G00Q170[1].,"¡Quantos Cuervos racionales vivirán hoy hambrientos, porque quisieron llegar â la cumbre donde los colocaba la Lisonja!",positive,No
+G00Q170[2].,"¡Quantos Cuervos racionales vivirán hoy hambrientos, porque quisieron llegar â la cumbre donde los colocaba la Lisonja!",neutral,Yes
+G00Q170[3].,"¡Quantos Cuervos racionales vivirán hoy hambrientos, porque quisieron llegar â la cumbre donde los colocaba la Lisonja!",negative,No
+G00Q171[1].,"¡valgate Dios por nombre, que aún assi engendras sustos, parasismos, y aborrecimiento!",positive,No
+G00Q171[2].,"¡valgate Dios por nombre, que aún assi engendras sustos, parasismos, y aborrecimiento!",neutral,Yes
+G00Q171[3].,"¡valgate Dios por nombre, que aún assi engendras sustos, parasismos, y aborrecimiento!",negative,No
+G00Q172[1].,".¿Pues no há reparado Vm. mi alma (la réplica) à Madama Polonia, que llegò havrá quince dias de Parìs, què manera tan discreta de peynarse, y què bello gusto de Batas que trae?",positive,No
+G00Q172[2].,".¿Pues no há reparado Vm. mi alma (la réplica) à Madama Polonia, que llegò havrá quince dias de Parìs, què manera tan discreta de peynarse, y què bello gusto de Batas que trae?",neutral,Yes
+G00Q172[3].,".¿Pues no há reparado Vm. mi alma (la réplica) à Madama Polonia, que llegò havrá quince dias de Parìs, què manera tan discreta de peynarse, y què bello gusto de Batas que trae?",negative,No
+G00Q173[1].,"Todo esto llevará con paciencia, si su asèo, y prolixa compostura se ordenára â conplacerme; pero es muy â el contrario, porque su merced es Cortejo, y hace tanta vanidad de serlo, que quando està de humor me refiere las gracias de su querida, me pondera sus chistes, y alaba su hermosura: vea Vm. què refresco para quien se halla atabardillada de Zelos.",positive,No
+G00Q173[2].,"Todo esto llevará con paciencia, si su asèo, y prolixa compostura se ordenára â conplacerme; pero es muy â el contrario, porque su merced es Cortejo, y hace tanta vanidad de serlo, que quando està de humor me refiere las gracias de su querida, me pondera sus chistes, y alaba su hermosura: vea Vm. què refresco para quien se halla atabardillada de Zelos.",neutral,Yes
+G00Q173[3].,"Todo esto llevará con paciencia, si su asèo, y prolixa compostura se ordenára â conplacerme; pero es muy â el contrario, porque su merced es Cortejo, y hace tanta vanidad de serlo, que quando està de humor me refiere las gracias de su querida, me pondera sus chistes, y alaba su hermosura: vea Vm. què refresco para quien se halla atabardillada de Zelos.",negative,No
+G00Q174[1].,"Lucio es un ingrato, es un Hombre, que entrega â el olvido los mayores favores, pues en el tiempo de su miseria le socorrì con generosidad, y ahora que yá de nadie necessita, no hace caso de quien tanto le sirviò",positive,No
+G00Q174[2].,"Lucio es un ingrato, es un Hombre, que entrega â el olvido los mayores favores, pues en el tiempo de su miseria le socorrì con generosidad, y ahora que yá de nadie necessita, no hace caso de quien tanto le sirviò",neutral,Yes
+G00Q174[3].,"Lucio es un ingrato, es un Hombre, que entrega â el olvido los mayores favores, pues en el tiempo de su miseria le socorrì con generosidad, y ahora que yá de nadie necessita, no hace caso de quien tanto le sirviò",negative,No
+G00Q175[1].,"Estos son los que dexè notados à el principio, y estos debian, haciendo lo mismo, y desvelandose igualmente por instruírse, evitàr el motivo de su mal fundada quexa.",positive,No
+G00Q175[2].,"Estos son los que dexè notados à el principio, y estos debian, haciendo lo mismo, y desvelandose igualmente por instruírse, evitàr el motivo de su mal fundada quexa.",neutral,Yes
+G00Q175[3].,"Estos son los que dexè notados à el principio, y estos debian, haciendo lo mismo, y desvelandose igualmente por instruírse, evitàr el motivo de su mal fundada quexa.",negative,No
+G00Q176[1].,"Tenía muchissima confianza de mi, como que se hacía cargo de la prenda, que tenìa en Casa.",positive,No
+G00Q176[2].,"Tenía muchissima confianza de mi, como que se hacía cargo de la prenda, que tenìa en Casa.",neutral,Yes
+G00Q176[3].,"Tenía muchissima confianza de mi, como que se hacía cargo de la prenda, que tenìa en Casa.",negative,No
+G00Q200[1].,"Epaminondas no se desdeñaba de mezclarse en las danzas de los muchachos de Thebas, su Patria, ni creía obscurecer con esto la gloria de sus victorias, ni la pureza de sus costumbres.",positive,No
+G00Q200[2].,"Epaminondas no se desdeñaba de mezclarse en las danzas de los muchachos de Thebas, su Patria, ni creía obscurecer con esto la gloria de sus victorias, ni la pureza de sus costumbres.",neutral,Yes
+G00Q200[3].,"Epaminondas no se desdeñaba de mezclarse en las danzas de los muchachos de Thebas, su Patria, ni creía obscurecer con esto la gloria de sus victorias, ni la pureza de sus costumbres.",negative,No
+G00Q177[1].,"En pocas partes del Mundo se vè con mas frequencia este desorden, que en esta Ciudad.",positive,No
+G00Q177[2].,"En pocas partes del Mundo se vè con mas frequencia este desorden, que en esta Ciudad.",neutral,Yes
+G00Q177[3].,"En pocas partes del Mundo se vè con mas frequencia este desorden, que en esta Ciudad.",negative,No
+G00Q179[1].,"Estas fingidas esperanzas, y las importunas ponderaciones de todos los que me trataban, como conquistados de sus regalos, me llevaron voluntariamente â manos de mi mayor desgracia.",positive,No
+G00Q179[2].,"Estas fingidas esperanzas, y las importunas ponderaciones de todos los que me trataban, como conquistados de sus regalos, me llevaron voluntariamente â manos de mi mayor desgracia.",neutral,Yes
+G00Q179[3].,"Estas fingidas esperanzas, y las importunas ponderaciones de todos los que me trataban, como conquistados de sus regalos, me llevaron voluntariamente â manos de mi mayor desgracia.",negative,No
+G00Q180[1].,"Si esto intentàra, sería un disparate: lo que culpo, y condeno como indigno, no es aquel sentimiento discreto, que se forma de los males, regulandole siempre con lo justo, para que no exceda su linea, y passe â ser impaciencia, ô desesperacion: no es este, porque assi es precisso, y honesto;",positive,No
+G00Q180[2].,"Si esto intentàra, sería un disparate: lo que culpo, y condeno como indigno, no es aquel sentimiento discreto, que se forma de los males, regulandole siempre con lo justo, para que no exceda su linea, y passe â ser impaciencia, ô desesperacion: no es este, porque assi es precisso, y honesto;",neutral,Yes
+G00Q180[3].,"Si esto intentàra, sería un disparate: lo que culpo, y condeno como indigno, no es aquel sentimiento discreto, que se forma de los males, regulandole siempre con lo justo, para que no exceda su linea, y passe â ser impaciencia, ô desesperacion: no es este, porque assi es precisso, y honesto;",negative,No
+G00Q181[1].,"En pocas partes del Mundo se vè con mas frequencia este desorden, que en esta Ciudad.",positive,No
+G00Q181[2].,"En pocas partes del Mundo se vè con mas frequencia este desorden, que en esta Ciudad.",neutral,Yes
+G00Q181[3].,"En pocas partes del Mundo se vè con mas frequencia este desorden, que en esta Ciudad.",negative,No
+G00Q201[1].,"Examinense las Historias de los Egypcios, y de los Hebreos, y se encontrará crecido numero de impostores, que abusando de la débil credulidad de los hombres, se jactaban de curar las enfermedades mas inveteradas, por medio de amuletos, talismanes, adivinaciones, y especificos.",positive,No
+G00Q201[2].,"Examinense las Historias de los Egypcios, y de los Hebreos, y se encontrará crecido numero de impostores, que abusando de la débil credulidad de los hombres, se jactaban de curar las enfermedades mas inveteradas, por medio de amuletos, talismanes, adivinaciones, y especificos.",neutral,Yes
+G00Q201[3].,"Examinense las Historias de los Egypcios, y de los Hebreos, y se encontrará crecido numero de impostores, que abusando de la débil credulidad de los hombres, se jactaban de curar las enfermedades mas inveteradas, por medio de amuletos, talismanes, adivinaciones, y especificos.",negative,No
+G00Q183[1].,"En fin Vm. no estrañe el modo de explicarme, porque realmente estoy loco, no sè lo que me digo: y lo peor es, que aunque lo conozco, no lo puedo remediár",positive,No
+G00Q183[2].,"En fin Vm. no estrañe el modo de explicarme, porque realmente estoy loco, no sè lo que me digo: y lo peor es, que aunque lo conozco, no lo puedo remediár",neutral,Yes
+G00Q183[3].,"En fin Vm. no estrañe el modo de explicarme, porque realmente estoy loco, no sè lo que me digo: y lo peor es, que aunque lo conozco, no lo puedo remediár",negative,No
+G00Q184[1].,"Señora Culta, su Carta es un farrago de los mas despreciables, y en su obscuro contexto se mira la satisfaccion de su duda.",positive,No
+G00Q184[2].,"Señora Culta, su Carta es un farrago de los mas despreciables, y en su obscuro contexto se mira la satisfaccion de su duda.",neutral,Yes
+G00Q184[3].,"Señora Culta, su Carta es un farrago de los mas despreciables, y en su obscuro contexto se mira la satisfaccion de su duda.",negative,No
+G00Q185[1].,"Yo por mi desgracia me hallo Casada con un Curioso tan fino, que por la menor novedad que se le presente, se estará dos dias sin venir â casa, hasta conseguir hallarse informado de sus menores circunstancias, para despues tener assumpto flamante en las Tertulias",positive,No
+G00Q185[2].,"Yo por mi desgracia me hallo Casada con un Curioso tan fino, que por la menor novedad que se le presente, se estará dos dias sin venir â casa, hasta conseguir hallarse informado de sus menores circunstancias, para despues tener assumpto flamante en las Tertulias",neutral,Yes
+G00Q185[3].,"Yo por mi desgracia me hallo Casada con un Curioso tan fino, que por la menor novedad que se le presente, se estará dos dias sin venir â casa, hasta conseguir hallarse informado de sus menores circunstancias, para despues tener assumpto flamante en las Tertulias",negative,No
+G00Q202[1].,"Antes bien, por su modo de pensár se dexa discurrir, que tiene ideádo el contribuir por su parte, al destierro de las mas raras extravagancias y corruptelas, con que los hombres se han empeñado en echar à perder cada dia mas el mundo.",positive,No
+G00Q202[2].,"Antes bien, por su modo de pensár se dexa discurrir, que tiene ideádo el contribuir por su parte, al destierro de las mas raras extravagancias y corruptelas, con que los hombres se han empeñado en echar à perder cada dia mas el mundo.",neutral,Yes
+G00Q202[3].,"Antes bien, por su modo de pensár se dexa discurrir, que tiene ideádo el contribuir por su parte, al destierro de las mas raras extravagancias y corruptelas, con que los hombres se han empeñado en echar à perder cada dia mas el mundo.",negative,No
+G00Q203[1].,"Llega á tanto nuestra estoildéz, que pasa los limites de lo racional, pues nos dexamos regir de la vanidad, monstruo tan poco escrupuloso, que vive contento en las lobreguezes, siendo solamente éco que resuena, afan de desperdicios, tarea de inutilidades, tela de Arachne, y finalmente, carencia de un todo.",positive,No
+G00Q203[2].,"Llega á tanto nuestra estoildéz, que pasa los limites de lo racional, pues nos dexamos regir de la vanidad, monstruo tan poco escrupuloso, que vive contento en las lobreguezes, siendo solamente éco que resuena, afan de desperdicios, tarea de inutilidades, tela de Arachne, y finalmente, carencia de un todo.",neutral,Yes
+G00Q203[3].,"Llega á tanto nuestra estoildéz, que pasa los limites de lo racional, pues nos dexamos regir de la vanidad, monstruo tan poco escrupuloso, que vive contento en las lobreguezes, siendo solamente éco que resuena, afan de desperdicios, tarea de inutilidades, tela de Arachne, y finalmente, carencia de un todo.",negative,No
+G00Q204[1].,"¿Què mayor locura, que sin embargo de ser yo un hombre docil, de buena pasta, y sin malicia, aseverar, que soy un satyrico, perverso, y mal humorado?",positive,No
+G00Q204[2].,"¿Què mayor locura, que sin embargo de ser yo un hombre docil, de buena pasta, y sin malicia, aseverar, que soy un satyrico, perverso, y mal humorado?",neutral,Yes
+G00Q204[3].,"¿Què mayor locura, que sin embargo de ser yo un hombre docil, de buena pasta, y sin malicia, aseverar, que soy un satyrico, perverso, y mal humorado?",negative,No
+G00Q182[1].,"Todas las Señoras estabamos muy contentas con èl, quien se hacia pagar muy bien por su especial havilidad, y bello gusto: encargandole nosotras, que por ningun motivo vistiesse de aquella manera â ninguna Muger humilde, porque le hariamos dàr de palos, y desterràr de la tierra.",positive,No
+G00Q182[2].,"Todas las Señoras estabamos muy contentas con èl, quien se hacia pagar muy bien por su especial havilidad, y bello gusto: encargandole nosotras, que por ningun motivo vistiesse de aquella manera â ninguna Muger humilde, porque le hariamos dàr de palos, y desterràr de la tierra.",neutral,Yes
+G00Q182[3].,"Todas las Señoras estabamos muy contentas con èl, quien se hacia pagar muy bien por su especial havilidad, y bello gusto: encargandole nosotras, que por ningun motivo vistiesse de aquella manera â ninguna Muger humilde, porque le hariamos dàr de palos, y desterràr de la tierra.",negative,No
+G00Q205[1].,"Se le presentaba siempre lleno el semblante de serenidad, y tan contenta como pudiera en medio de la abundancia y las riquezas.",positive,No
+G00Q205[2].,"Se le presentaba siempre lleno el semblante de serenidad, y tan contenta como pudiera en medio de la abundancia y las riquezas.",neutral,Yes
+G00Q205[3].,"Se le presentaba siempre lleno el semblante de serenidad, y tan contenta como pudiera en medio de la abundancia y las riquezas.",negative,No
+G00Q187[1].,"Pero vease â uno de estos tenidos por infelices, que bien hallado con su suerte, vive apartado de la confussion de las Cortes, y Ciudad es",positive,No
+G00Q187[2].,"Pero vease â uno de estos tenidos por infelices, que bien hallado con su suerte, vive apartado de la confussion de las Cortes, y Ciudad es",neutral,Yes
+G00Q187[3].,"Pero vease â uno de estos tenidos por infelices, que bien hallado con su suerte, vive apartado de la confussion de las Cortes, y Ciudad es",negative,No
+G00Q206[1].,"Y estos mismos amigos le miran con indiferencia, punto menos que en la miseria de que él los sacó, y de que son ellos la verdadera causa.",positive,No
+G00Q206[2].,"Y estos mismos amigos le miran con indiferencia, punto menos que en la miseria de que él los sacó, y de que son ellos la verdadera causa.",neutral,Yes
+G00Q206[3].,"Y estos mismos amigos le miran con indiferencia, punto menos que en la miseria de que él los sacó, y de que son ellos la verdadera causa.",negative,No
+G00Q186[1].,"Se vè sujeto â las trayciones, expuesto â los engaños de tantos viles intentos como procuran usurparle su hacienda.",positive,No
+G00Q186[2].,"Se vè sujeto â las trayciones, expuesto â los engaños de tantos viles intentos como procuran usurparle su hacienda.",neutral,Yes
+G00Q186[3].,"Se vè sujeto â las trayciones, expuesto â los engaños de tantos viles intentos como procuran usurparle su hacienda.",negative,No
+G00Q188[1].,"De esta continuacion de aplausos ha venido â hacerse de un genio tan atrevido, y falto de politica, que â todos increpa de ignorantes, sola su opinion es la mas segura, y lo que es mas (aquí entro yo) quiere, y pretende que las Damas, que nos hallàmos oprimidas de mil cuydados domesticos, seámos Philosophas, Naturalistas, Hystoriadoras, y Geometras.",positive,No
+G00Q188[2].,"De esta continuacion de aplausos ha venido â hacerse de un genio tan atrevido, y falto de politica, que â todos increpa de ignorantes, sola su opinion es la mas segura, y lo que es mas (aquí entro yo) quiere, y pretende que las Damas, que nos hallàmos oprimidas de mil cuydados domesticos, seámos Philosophas, Naturalistas, Hystoriadoras, y Geometras.",neutral,Yes
+G00Q188[3].,"De esta continuacion de aplausos ha venido â hacerse de un genio tan atrevido, y falto de politica, que â todos increpa de ignorantes, sola su opinion es la mas segura, y lo que es mas (aquí entro yo) quiere, y pretende que las Damas, que nos hallàmos oprimidas de mil cuydados domesticos, seámos Philosophas, Naturalistas, Hystoriadoras, y Geometras.",negative,No
+G00Q207[1].,"Esta sábia República tenia establecida la pena de muerte muy raras veces, y solo por crimenes muy graves.",positive,No
+G00Q207[2].,"Esta sábia República tenia establecida la pena de muerte muy raras veces, y solo por crimenes muy graves.",neutral,Yes
+G00Q207[3].,"Esta sábia República tenia establecida la pena de muerte muy raras veces, y solo por crimenes muy graves.",negative,No
+G00Q189[1].,"Mil veces quise matarme, pero mi desgracia quitò el valor â mi determinacion: y combatida por los fingidos halagos de al",positive,No
+G00Q189[2].,"Mil veces quise matarme, pero mi desgracia quitò el valor â mi determinacion: y combatida por los fingidos halagos de al",neutral,Yes
+G00Q189[3].,"Mil veces quise matarme, pero mi desgracia quitò el valor â mi determinacion: y combatida por los fingidos halagos de al",negative,No
+G00Q208[1].,"¿Quando estaban, digo, en honor entre ellos, la pobreza, el amor al trabajo, el odio à la ociosidad, el desprecio del luxo, y de los deleytes.",positive,No
+G00Q208[2].,"¿Quando estaban, digo, en honor entre ellos, la pobreza, el amor al trabajo, el odio à la ociosidad, el desprecio del luxo, y de los deleytes.",neutral,Yes
+G00Q208[3].,"¿Quando estaban, digo, en honor entre ellos, la pobreza, el amor al trabajo, el odio à la ociosidad, el desprecio del luxo, y de los deleytes.",negative,No
+G00Q209[1].,"Pero entraban los empeños, los regalos, las promesas, ¡y quán dificil era que se resistiese siempre à unas máquinas como estas, capaces de batir la mayor constancia!",positive,No
+G00Q209[2].,"Pero entraban los empeños, los regalos, las promesas, ¡y quán dificil era que se resistiese siempre à unas máquinas como estas, capaces de batir la mayor constancia!",neutral,Yes
+G00Q209[3].,"Pero entraban los empeños, los regalos, las promesas, ¡y quán dificil era que se resistiese siempre à unas máquinas como estas, capaces de batir la mayor constancia!",negative,No
+G00Q210[1].,"pero un accidente peor para mí que una buena enfermedad me obliga à guardar Casa por algunos dias, y à no presentarme donde Gentes me vean la cara, hasta que à todas se les haya borrado de la imaginacion mi fisonomía.",positive,No
+G00Q210[2].,"pero un accidente peor para mí que una buena enfermedad me obliga à guardar Casa por algunos dias, y à no presentarme donde Gentes me vean la cara, hasta que à todas se les haya borrado de la imaginacion mi fisonomía.",neutral,Yes
+G00Q210[3].,"pero un accidente peor para mí que una buena enfermedad me obliga à guardar Casa por algunos dias, y à no presentarme donde Gentes me vean la cara, hasta que à todas se les haya borrado de la imaginacion mi fisonomía.",negative,No
+G00Q211[1].,"hablo de aquella prodigalidad de ceremonias, y cumplimientos que caracteriza à los Caballeros de Lugar por la mayor parte;",positive,No
+G00Q211[2].,"hablo de aquella prodigalidad de ceremonias, y cumplimientos que caracteriza à los Caballeros de Lugar por la mayor parte;",neutral,Yes
+G00Q211[3].,"hablo de aquella prodigalidad de ceremonias, y cumplimientos que caracteriza à los Caballeros de Lugar por la mayor parte;",negative,No
+G00Q212[1].,"Sabe valerse, perdida enteramente la verguenza, de mil artificios, que el uso, y una larga experiencia le han enseñado, para aparentar su miseria.",positive,No
+G00Q212[2].,"Sabe valerse, perdida enteramente la verguenza, de mil artificios, que el uso, y una larga experiencia le han enseñado, para aparentar su miseria.",neutral,Yes
+G00Q212[3].,"Sabe valerse, perdida enteramente la verguenza, de mil artificios, que el uso, y una larga experiencia le han enseñado, para aparentar su miseria.",negative,No
+G00Q213[1].,"Pues, Amigo, sepa Vm. que todo se lo llevó el diablo, si Vm. no me vale;",positive,No
+G00Q213[2].,"Pues, Amigo, sepa Vm. que todo se lo llevó el diablo, si Vm. no me vale;",neutral,Yes
+G00Q213[3].,"Pues, Amigo, sepa Vm. que todo se lo llevó el diablo, si Vm. no me vale;",negative,No
+G00Q190[1].,"De aqui es que no hablará una palabra en asunto de la moda, aquel ente que, en sentir de nuestros Catones, trae en perpetuo jiro y continuo mobimiento los cerebros vacíos, ligeros, y volatiles.",positive,No
+G00Q190[2].,"De aqui es que no hablará una palabra en asunto de la moda, aquel ente que, en sentir de nuestros Catones, trae en perpetuo jiro y continuo mobimiento los cerebros vacíos, ligeros, y volatiles.",neutral,Yes
+G00Q190[3].,"De aqui es que no hablará una palabra en asunto de la moda, aquel ente que, en sentir de nuestros Catones, trae en perpetuo jiro y continuo mobimiento los cerebros vacíos, ligeros, y volatiles.",negative,No
+G00Q214[1].,"Si tal vez sus expresiones son un poco atrevidas, y sus comparaciones odiosas, deben permitirse à un hombre, que no ha nacido con la obligacion de hablarnos segun nuestro gusto.",positive,No
+G00Q214[2].,"Si tal vez sus expresiones son un poco atrevidas, y sus comparaciones odiosas, deben permitirse à un hombre, que no ha nacido con la obligacion de hablarnos segun nuestro gusto.",neutral,Yes
+G00Q214[3].,"Si tal vez sus expresiones son un poco atrevidas, y sus comparaciones odiosas, deben permitirse à un hombre, que no ha nacido con la obligacion de hablarnos segun nuestro gusto.",negative,No
+G00Q191[1].,"Tal qual diamantillo tiene; pero lo demás son chispas, y todo ello de muy mal gusto.",positive,No
+G00Q191[2].,"Tal qual diamantillo tiene; pero lo demás son chispas, y todo ello de muy mal gusto.",neutral,Yes
+G00Q191[3].,"Tal qual diamantillo tiene; pero lo demás son chispas, y todo ello de muy mal gusto.",negative,No
+G00Q215[1].,"A mí me hizo reir este ofrecimiento, mas no asi al otro, à quien antes le irritó tanto, que à breves razones vino à decirle que era un herege, y que su proposicion era no tan solamente impía, heretica, erronea, y escandalosa, sino tambien capciosa, y piarum aurium ofensiva:",positive,No
+G00Q215[2].,"A mí me hizo reir este ofrecimiento, mas no asi al otro, à quien antes le irritó tanto, que à breves razones vino à decirle que era un herege, y que su proposicion era no tan solamente impía, heretica, erronea, y escandalosa, sino tambien capciosa, y piarum aurium ofensiva:",neutral,Yes
+G00Q215[3].,"A mí me hizo reir este ofrecimiento, mas no asi al otro, à quien antes le irritó tanto, que à breves razones vino à decirle que era un herege, y que su proposicion era no tan solamente impía, heretica, erronea, y escandalosa, sino tambien capciosa, y piarum aurium ofensiva:",negative,No
+G00Q192[1].,"La epidemia, Señor, ha cundido tanto, que el infierno no se conoce, ni las gentes se entienden.",positive,No
+G00Q192[2].,"La epidemia, Señor, ha cundido tanto, que el infierno no se conoce, ni las gentes se entienden.",neutral,Yes
+G00Q192[3].,"La epidemia, Señor, ha cundido tanto, que el infierno no se conoce, ni las gentes se entienden.",negative,No
+G00Q216[1].,"Es un cobarde, un vil, un indigno de los honores que goza, y de alternar con quien tenga el corazon bien puesto.",positive,No
+G00Q216[2].,"Es un cobarde, un vil, un indigno de los honores que goza, y de alternar con quien tenga el corazon bien puesto.",neutral,Yes
+G00Q216[3].,"Es un cobarde, un vil, un indigno de los honores que goza, y de alternar con quien tenga el corazon bien puesto.",negative,No
+G00Q193[1].,"Selvas, y bosque de amor, dehesas, sotos, y campos, quien os cantaba soltero, os viene à mugir casado.",positive,No
+G00Q193[2].,"Selvas, y bosque de amor, dehesas, sotos, y campos, quien os cantaba soltero, os viene à mugir casado.",neutral,Yes
+G00Q193[3].,"Selvas, y bosque de amor, dehesas, sotos, y campos, quien os cantaba soltero, os viene à mugir casado.",negative,No
+G00Q217[1].,una margen bordada de citas es un espectáculo que de modo le arrebata que es capaz de devorar un libro en que la vea.,positive,No
+G00Q217[2].,una margen bordada de citas es un espectáculo que de modo le arrebata que es capaz de devorar un libro en que la vea.,neutral,Yes
+G00Q217[3].,una margen bordada de citas es un espectáculo que de modo le arrebata que es capaz de devorar un libro en que la vea.,negative,No
+G00Q194[1].,"Pero en cambio de estos beneficios, ¡qué tributos de reconocimiento no adquirió aquel magnánimo corazon!",positive,No
+G00Q194[2].,"Pero en cambio de estos beneficios, ¡qué tributos de reconocimiento no adquirió aquel magnánimo corazon!",neutral,Yes
+G00Q194[3].,"Pero en cambio de estos beneficios, ¡qué tributos de reconocimiento no adquirió aquel magnánimo corazon!",negative,No
+G00Q195[1].,"Pero ello es, que se encuentran padres de este temple: que son muchos los que se encuentran; y que su conducta es prueba evidente de que aquellos gastos se sacrifican al orgullo, y la vanidad, sin tener parte en ellos el sincero deseo de hacer bien à sus hijos",positive,No
+G00Q195[2].,"Pero ello es, que se encuentran padres de este temple: que son muchos los que se encuentran; y que su conducta es prueba evidente de que aquellos gastos se sacrifican al orgullo, y la vanidad, sin tener parte en ellos el sincero deseo de hacer bien à sus hijos",neutral,Yes
+G00Q195[3].,"Pero ello es, que se encuentran padres de este temple: que son muchos los que se encuentran; y que su conducta es prueba evidente de que aquellos gastos se sacrifican al orgullo, y la vanidad, sin tener parte en ellos el sincero deseo de hacer bien à sus hijos",negative,No
+G00Q196[1].,"¿con qué cara podrá decir este animal, que tiene sesenta años, no haviendo aprendido en ellos à dominar sus pasiones, à despojarse de los antojos de la niñéz, y de los ímpetus ciegos de la juventud, à conocer los principios de su Religion, ni à dár tributo de adoracion al Señor de todo lo criado?",positive,No
+G00Q196[2].,"¿con qué cara podrá decir este animal, que tiene sesenta años, no haviendo aprendido en ellos à dominar sus pasiones, à despojarse de los antojos de la niñéz, y de los ímpetus ciegos de la juventud, à conocer los principios de su Religion, ni à dár tributo de adoracion al Señor de todo lo criado?",neutral,Yes
+G00Q196[3].,"¿con qué cara podrá decir este animal, que tiene sesenta años, no haviendo aprendido en ellos à dominar sus pasiones, à despojarse de los antojos de la niñéz, y de los ímpetus ciegos de la juventud, à conocer los principios de su Religion, ni à dár tributo de adoracion al Señor de todo lo criado?",negative,No
+G00Q197[1].,"Pues como iba diciendo; apenas llegué à tocar los rayos de la razon, me vì sin Padres, y baxo la educacion de un Tio mio, hombre machucho, afilosofado, y dotado de aquel intrinseco azibarado ingrediente, con que diz que se destetan los Niños",positive,No
+G00Q197[2].,"Pues como iba diciendo; apenas llegué à tocar los rayos de la razon, me vì sin Padres, y baxo la educacion de un Tio mio, hombre machucho, afilosofado, y dotado de aquel intrinseco azibarado ingrediente, con que diz que se destetan los Niños",neutral,Yes
+G00Q197[3].,"Pues como iba diciendo; apenas llegué à tocar los rayos de la razon, me vì sin Padres, y baxo la educacion de un Tio mio, hombre machucho, afilosofado, y dotado de aquel intrinseco azibarado ingrediente, con que diz que se destetan los Niños",negative,No
+G00Q198[1].,"Finalmente, èl és racional y como tal apetece las diversiones.",positive,No
+G00Q198[2].,"Finalmente, èl és racional y como tal apetece las diversiones.",neutral,Yes
+G00Q198[3].,"Finalmente, èl és racional y como tal apetece las diversiones.",negative,No
+G00Q218[1].,"¿Sabia vmd. acaso hasta que nos reveló el secreto dicho venerable Colector de Comedias, que Racine habia sido un imbecil, Cosme Damian, un hombre falto de juicio, y de talento crítico?",positive,No
+G00Q218[2].,"¿Sabia vmd. acaso hasta que nos reveló el secreto dicho venerable Colector de Comedias, que Racine habia sido un imbecil, Cosme Damian, un hombre falto de juicio, y de talento crítico?",neutral,Yes
+G00Q218[3].,"¿Sabia vmd. acaso hasta que nos reveló el secreto dicho venerable Colector de Comedias, que Racine habia sido un imbecil, Cosme Damian, un hombre falto de juicio, y de talento crítico?",negative,No
+G00Q199[1].,"¿Què mayor locura, que sin embargo de ser yo un hombre docil, de buena pasta, y sin malicia, aseverar, que soy un satyrico, perverso, y mal humorado?",positive,No
+G00Q199[2].,"¿Què mayor locura, que sin embargo de ser yo un hombre docil, de buena pasta, y sin malicia, aseverar, que soy un satyrico, perverso, y mal humorado?",neutral,Yes
+G00Q199[3].,"¿Què mayor locura, que sin embargo de ser yo un hombre docil, de buena pasta, y sin malicia, aseverar, que soy un satyrico, perverso, y mal humorado?",negative,No
+G00Q219[1].,"¿qué juicio formaria su merced de un Médico que llamado á curar un Escrofuloso, Elephanciano ó Ethico, descuidase estos tres terribles males, y emplease solamente su charlataneria en medicarle un sabañon ó un uñero?",positive,No
+G00Q219[2].,"¿qué juicio formaria su merced de un Médico que llamado á curar un Escrofuloso, Elephanciano ó Ethico, descuidase estos tres terribles males, y emplease solamente su charlataneria en medicarle un sabañon ó un uñero?",neutral,Yes
+G00Q219[3].,"¿qué juicio formaria su merced de un Médico que llamado á curar un Escrofuloso, Elephanciano ó Ethico, descuidase estos tres terribles males, y emplease solamente su charlataneria en medicarle un sabañon ó un uñero?",negative,No
+G00Q220[1].,"Ellos están en la posesion (no sé si inmemorial) de divertir y entretener á la cazuela con su buen humor y gracias poëticas, y consiguientemente tienen á su favor todo Madrid.",positive,No
+G00Q220[2].,"Ellos están en la posesion (no sé si inmemorial) de divertir y entretener á la cazuela con su buen humor y gracias poëticas, y consiguientemente tienen á su favor todo Madrid.",neutral,Yes
+G00Q220[3].,"Ellos están en la posesion (no sé si inmemorial) de divertir y entretener á la cazuela con su buen humor y gracias poëticas, y consiguientemente tienen á su favor todo Madrid.",negative,No
+G00Q221[1].,"Mi temperamento, naturalemente vigoroso, halagaba infinitamente las inclinaciones de un corazon demasiado simple y amoroso.",positive,No
+G00Q221[2].,"Mi temperamento, naturalemente vigoroso, halagaba infinitamente las inclinaciones de un corazon demasiado simple y amoroso.",neutral,Yes
+G00Q221[3].,"Mi temperamento, naturalemente vigoroso, halagaba infinitamente las inclinaciones de un corazon demasiado simple y amoroso.",negative,No
+G00Q222[1].,El amor de la verdad gobierna mi pluma y no me permitirá exâgerar ni declamar vanamente.,positive,No
+G00Q222[2].,El amor de la verdad gobierna mi pluma y no me permitirá exâgerar ni declamar vanamente.,neutral,Yes
+G00Q222[3].,El amor de la verdad gobierna mi pluma y no me permitirá exâgerar ni declamar vanamente.,negative,No
+G00Q223[1].,"pero decir como muchos, eso no vale nada, eso es un asco, y no probarlo, ya vé vmd. que son expresiones muy vagas, muy despreciables, y que todo hombre de juicio se rie de los que fallan por este estilo.",positive,No
+G00Q223[2].,"pero decir como muchos, eso no vale nada, eso es un asco, y no probarlo, ya vé vmd. que son expresiones muy vagas, muy despreciables, y que todo hombre de juicio se rie de los que fallan por este estilo.",neutral,Yes
+G00Q223[3].,"pero decir como muchos, eso no vale nada, eso es un asco, y no probarlo, ya vé vmd. que son expresiones muy vagas, muy despreciables, y que todo hombre de juicio se rie de los que fallan por este estilo.",negative,No
+G00Q224[1].,"Homero era un famoso Astrólogo politico, que adivinando las funestas resultas de semejantes desordenes, queria con la moral de su obra curar males tan graves.",positive,No
+G00Q224[2].,"Homero era un famoso Astrólogo politico, que adivinando las funestas resultas de semejantes desordenes, queria con la moral de su obra curar males tan graves.",neutral,Yes
+G00Q224[3].,"Homero era un famoso Astrólogo politico, que adivinando las funestas resultas de semejantes desordenes, queria con la moral de su obra curar males tan graves.",negative,No
+G00Q225[1].,"Un malvado insulano con el fin de enriquecer el Fisco, propuso se confiscasen los bienes de cierto miserable que acababa de ser condenado á muerte.",positive,No
+G00Q225[2].,"Un malvado insulano con el fin de enriquecer el Fisco, propuso se confiscasen los bienes de cierto miserable que acababa de ser condenado á muerte.",neutral,Yes
+G00Q225[3].,"Un malvado insulano con el fin de enriquecer el Fisco, propuso se confiscasen los bienes de cierto miserable que acababa de ser condenado á muerte.",negative,No
+G00Q226[1].,"mas como toda cosa mortal declina, hace algun tiempo que la tengo tan quebradiza y delicada como puede ser el honor de una dama en boca de un pisaverde.",positive,No
+G00Q226[2].,"mas como toda cosa mortal declina, hace algun tiempo que la tengo tan quebradiza y delicada como puede ser el honor de una dama en boca de un pisaverde.",neutral,Yes
+G00Q226[3].,"mas como toda cosa mortal declina, hace algun tiempo que la tengo tan quebradiza y delicada como puede ser el honor de una dama en boca de un pisaverde.",negative,No
+G00Q227[1].,¡Qué delicia no sería oirlas entonar con sus encantadoras voces el Te Franciscum laudamus por alguna victoria contra infieles!,positive,No
+G00Q227[2].,¡Qué delicia no sería oirlas entonar con sus encantadoras voces el Te Franciscum laudamus por alguna victoria contra infieles!,neutral,Yes
+G00Q227[3].,¡Qué delicia no sería oirlas entonar con sus encantadoras voces el Te Franciscum laudamus por alguna victoria contra infieles!,negative,No
+G00Q228[1].,"Deje de pensar por un rato, y ve aqui que de repente se deshacen todas mis dificultades y temores.",positive,No
+G00Q228[2].,"Deje de pensar por un rato, y ve aqui que de repente se deshacen todas mis dificultades y temores.",neutral,Yes
+G00Q228[3].,"Deje de pensar por un rato, y ve aqui que de repente se deshacen todas mis dificultades y temores.",negative,No
+G00Q229[1].,"¿Quántos hay todavia en nuestra España, muy revestidos de Doctores, que no se desprenderán de sus errados systemas, aunque se les ponga á los ojos la evidencia?",positive,No
+G00Q229[2].,"¿Quántos hay todavia en nuestra España, muy revestidos de Doctores, que no se desprenderán de sus errados systemas, aunque se les ponga á los ojos la evidencia?",neutral,Yes
+G00Q229[3].,"¿Quántos hay todavia en nuestra España, muy revestidos de Doctores, que no se desprenderán de sus errados systemas, aunque se les ponga á los ojos la evidencia?",negative,No
+G00Q230[1].,"La eloqüencia, el bello gusto, la erudicion, el decoro, la urbanidad, el chiste, todo desapareció con el Juzgado y no habrá ya quien se atreva á sucederle dignamente.",positive,No
+G00Q230[2].,"La eloqüencia, el bello gusto, la erudicion, el decoro, la urbanidad, el chiste, todo desapareció con el Juzgado y no habrá ya quien se atreva á sucederle dignamente.",neutral,Yes
+G00Q230[3].,"La eloqüencia, el bello gusto, la erudicion, el decoro, la urbanidad, el chiste, todo desapareció con el Juzgado y no habrá ya quien se atreva á sucederle dignamente.",negative,No
+G00Q231[1].,"y como nadie hasta ahora se habia acordado de mí para este efecto, y debia trabajarlo todo por mí mismo, me iba desanimando poco á poco de mi empeño.",positive,No
+G00Q231[2].,"y como nadie hasta ahora se habia acordado de mí para este efecto, y debia trabajarlo todo por mí mismo, me iba desanimando poco á poco de mi empeño.",neutral,Yes
+G00Q231[3].,"y como nadie hasta ahora se habia acordado de mí para este efecto, y debia trabajarlo todo por mí mismo, me iba desanimando poco á poco de mi empeño.",negative,No
+G00Q232[1].,"Una cosa semejante creen ellos que ha de sucederles en el Tribunal Supremo, respecto de aquellas acciones delinqüentes, en las quales tienen por complice á la muchedumbre.",positive,No
+G00Q232[2].,"Una cosa semejante creen ellos que ha de sucederles en el Tribunal Supremo, respecto de aquellas acciones delinqüentes, en las quales tienen por complice á la muchedumbre.",neutral,Yes
+G00Q232[3].,"Una cosa semejante creen ellos que ha de sucederles en el Tribunal Supremo, respecto de aquellas acciones delinqüentes, en las quales tienen por complice á la muchedumbre.",negative,No
+G00Q233[1].,"¿Y con qué han de pagar los subditos á su Principe las mercedes que les haga, sino de esta manera?",positive,No
+G00Q233[2].,"¿Y con qué han de pagar los subditos á su Principe las mercedes que les haga, sino de esta manera?",neutral,Yes
+G00Q233[3].,"¿Y con qué han de pagar los subditos á su Principe las mercedes que les haga, sino de esta manera?",negative,No
+G00Q234[1].,"La miseria iba á oprimirme, y no me quedaba ya sino este infame medio para librarme de una inminente ruina.",positive,No
+G00Q234[2].,"La miseria iba á oprimirme, y no me quedaba ya sino este infame medio para librarme de una inminente ruina.",neutral,Yes
+G00Q234[3].,"La miseria iba á oprimirme, y no me quedaba ya sino este infame medio para librarme de una inminente ruina.",negative,No
+G00Q235[1].,"Animo, amigos, nadie tema, nadie Su punzante aguijon, que yo persigo En mi Sátira al Vicio, no al vicioso.",positive,No
+G00Q235[2].,"Animo, amigos, nadie tema, nadie Su punzante aguijon, que yo persigo En mi Sátira al Vicio, no al vicioso.",neutral,Yes
+G00Q235[3].,"Animo, amigos, nadie tema, nadie Su punzante aguijon, que yo persigo En mi Sátira al Vicio, no al vicioso.",negative,No
+G00Q236[1].,"¿Quién no se horroriza de estas mesas, en las quales nos abstenemos, á la verdad de los manjares prohibidos;",positive,No
+G00Q236[2].,"¿Quién no se horroriza de estas mesas, en las quales nos abstenemos, á la verdad de los manjares prohibidos;",neutral,Yes
+G00Q236[3].,"¿Quién no se horroriza de estas mesas, en las quales nos abstenemos, á la verdad de los manjares prohibidos;",negative,No
+G00Q237[1].,"Yo le confieso á Vm. que si hubiera previsto su colera no hubiera entrado en la disputa, en que insensiblemente nos hemos empeñado, no teniendo yo en ella interés alguno;",positive,No
+G00Q237[2].,"Yo le confieso á Vm. que si hubiera previsto su colera no hubiera entrado en la disputa, en que insensiblemente nos hemos empeñado, no teniendo yo en ella interés alguno;",neutral,Yes
+G00Q237[3].,"Yo le confieso á Vm. que si hubiera previsto su colera no hubiera entrado en la disputa, en que insensiblemente nos hemos empeñado, no teniendo yo en ella interés alguno;",negative,No
+G00Q238[1].,"Le hemos manifestado varias veces quán impropias nos parecen de un hombre bien educado, y quanto nos ofenden éstas y otras expresiones;",positive,No
+G00Q238[2].,"Le hemos manifestado varias veces quán impropias nos parecen de un hombre bien educado, y quanto nos ofenden éstas y otras expresiones;",neutral,Yes
+G00Q238[3].,"Le hemos manifestado varias veces quán impropias nos parecen de un hombre bien educado, y quanto nos ofenden éstas y otras expresiones;",negative,No
+G00Q239[1].,"¿Quántas injusticias, quántas intrigas interesadas, quántos proyectos de ambicion le hicieron pasar las noches sin reposo?",positive,No
+G00Q239[2].,"¿Quántas injusticias, quántas intrigas interesadas, quántos proyectos de ambicion le hicieron pasar las noches sin reposo?",neutral,Yes
+G00Q239[3].,"¿Quántas injusticias, quántas intrigas interesadas, quántos proyectos de ambicion le hicieron pasar las noches sin reposo?",negative,No
+G00Q240[1].,"y adormeciendonos sobre nuestros males, que por ser de este mundo no son sino verdaderos bienes;",positive,No
+G00Q240[2].,"y adormeciendonos sobre nuestros males, que por ser de este mundo no son sino verdaderos bienes;",neutral,Yes
+G00Q240[3].,"y adormeciendonos sobre nuestros males, que por ser de este mundo no son sino verdaderos bienes;",negative,No
+G00Q241[1].,"¿Roma, en fin, no fue el terror de las Naciones, en tanto que ningun Ciudadano tuvo por pequeña la porcion de tierra que bastaba para mantener á un hombre:",positive,No
+G00Q241[2].,"¿Roma, en fin, no fue el terror de las Naciones, en tanto que ningun Ciudadano tuvo por pequeña la porcion de tierra que bastaba para mantener á un hombre:",neutral,Yes
+G00Q241[3].,"¿Roma, en fin, no fue el terror de las Naciones, en tanto que ningun Ciudadano tuvo por pequeña la porcion de tierra que bastaba para mantener á un hombre:",negative,No
+G00Q242[1].,"¿Qué nacion mas floreciente que los Egypcios no obstante el poder sin limites de sus Reyes, mientras no fueron corrompidos por la ambicion de Sesostris?",positive,No
+G00Q242[2].,"¿Qué nacion mas floreciente que los Egypcios no obstante el poder sin limites de sus Reyes, mientras no fueron corrompidos por la ambicion de Sesostris?",neutral,Yes
+G00Q242[3].,"¿Qué nacion mas floreciente que los Egypcios no obstante el poder sin limites de sus Reyes, mientras no fueron corrompidos por la ambicion de Sesostris?",negative,No
+G00Q243[1].,"Vuelve la cabeza el venerable anciano, y vé ¡ó dolor! ¡ó oprobio!",positive,No
+G00Q243[2].,"Vuelve la cabeza el venerable anciano, y vé ¡ó dolor! ¡ó oprobio!",neutral,Yes
+G00Q243[3].,"Vuelve la cabeza el venerable anciano, y vé ¡ó dolor! ¡ó oprobio!",negative,No
+G00Q244[1].,"antes mas me le afeminaron, y era tal el temor que me causaban los Duendes, que en oyendo á á",positive,No
+G00Q244[2].,"antes mas me le afeminaron, y era tal el temor que me causaban los Duendes, que en oyendo á á",neutral,Yes
+G00Q244[3].,"antes mas me le afeminaron, y era tal el temor que me causaban los Duendes, que en oyendo á á",negative,No
+G00Q245[1].,"Quiso mi desgracia que en aquella tarde viese entre varias Sombras la representacion de un Entierro, que no parecia, sino que ni mas ni menos era un Difunto que llevaban á la hoya entre quatro Terceros:",positive,No
+G00Q245[2].,"Quiso mi desgracia que en aquella tarde viese entre varias Sombras la representacion de un Entierro, que no parecia, sino que ni mas ni menos era un Difunto que llevaban á la hoya entre quatro Terceros:",neutral,Yes
+G00Q245[3].,"Quiso mi desgracia que en aquella tarde viese entre varias Sombras la representacion de un Entierro, que no parecia, sino que ni mas ni menos era un Difunto que llevaban á la hoya entre quatro Terceros:",negative,No
+G00Q246[1].,"á todos los Actores los estimo con igualdad, y miro por sus intereses, adelantamientos, é instruccion, escribiendo apologías imparciales en defensa del Teatro, y asi en nombre de todos los Cómicos Españoles te doy ahora la agencia de los Coliseos de Madrid, con la precisa condicion de que has de repartir este papelito con la mayor brevedad para que se vea en el tribunal de los Literatos.",positive,No
+G00Q246[2].,"á todos los Actores los estimo con igualdad, y miro por sus intereses, adelantamientos, é instruccion, escribiendo apologías imparciales en defensa del Teatro, y asi en nombre de todos los Cómicos Españoles te doy ahora la agencia de los Coliseos de Madrid, con la precisa condicion de que has de repartir este papelito con la mayor brevedad para que se vea en el tribunal de los Literatos.",neutral,Yes
+G00Q246[3].,"á todos los Actores los estimo con igualdad, y miro por sus intereses, adelantamientos, é instruccion, escribiendo apologías imparciales en defensa del Teatro, y asi en nombre de todos los Cómicos Españoles te doy ahora la agencia de los Coliseos de Madrid, con la precisa condicion de que has de repartir este papelito con la mayor brevedad para que se vea en el tribunal de los Literatos.",negative,No
+G00Q247[1].,"y revolviendo en mi memoria quáles serian, se apareció cerca de mí un mancebo de gallarda presencia que uniendo la hermosura con la seriedad presentaba el aspecto mas amable que pudiera figurar la imaginacion.",positive,No
+G00Q247[2].,"y revolviendo en mi memoria quáles serian, se apareció cerca de mí un mancebo de gallarda presencia que uniendo la hermosura con la seriedad presentaba el aspecto mas amable que pudiera figurar la imaginacion.",neutral,Yes
+G00Q247[3].,"y revolviendo en mi memoria quáles serian, se apareció cerca de mí un mancebo de gallarda presencia que uniendo la hermosura con la seriedad presentaba el aspecto mas amable que pudiera figurar la imaginacion.",negative,No
+G00Q248[1].,"Luego á la hora que no quiera creer lo falso, saldrá del error, ó lo evitará.",positive,No
+G00Q248[2].,"Luego á la hora que no quiera creer lo falso, saldrá del error, ó lo evitará.",neutral,Yes
+G00Q248[3].,"Luego á la hora que no quiera creer lo falso, saldrá del error, ó lo evitará.",negative,No
+G00Q249[1].,Vió en esto el Sacerdote que le asistia un demonio en figura de jóven muy triste y llorando.,positive,No
+G00Q249[2].,Vió en esto el Sacerdote que le asistia un demonio en figura de jóven muy triste y llorando.,neutral,Yes
+G00Q249[3].,Vió en esto el Sacerdote que le asistia un demonio en figura de jóven muy triste y llorando.,negative,No
+G00Q250[1].,"Oyéron los golpes dos menestrales, que trabajaban en el claustro, y saliendo á la Iglesia, no solo viéron á la Imágen bañada en sangre, sino que la oyéron quexarse con amargos y sentidos suspiros.",positive,No
+G00Q250[2].,"Oyéron los golpes dos menestrales, que trabajaban en el claustro, y saliendo á la Iglesia, no solo viéron á la Imágen bañada en sangre, sino que la oyéron quexarse con amargos y sentidos suspiros.",neutral,Yes
+G00Q250[3].,"Oyéron los golpes dos menestrales, que trabajaban en el claustro, y saliendo á la Iglesia, no solo viéron á la Imágen bañada en sangre, sino que la oyéron quexarse con amargos y sentidos suspiros.",negative,No
+,"La fama y los ilustres contratiempos Recordará con lágrimas Prosigue Si esto no basta, y te dirá qué año.",positive,No
+,"La fama y los ilustres contratiempos Recordará con lágrimas Prosigue Si esto no basta, y te dirá qué año.",neutral,Yes
+,"La fama y los ilustres contratiempos Recordará con lágrimas Prosigue Si esto no basta, y te dirá qué año.",negative,No
+G00Q251[1].,es menester que se guarde bien de contribuir ni con sus caudales ni con sus tareas á ningun establecimiento nuevo por mas que se ponderen sus ventajas:,positive,No
+G00Q251[2].,es menester que se guarde bien de contribuir ni con sus caudales ni con sus tareas á ningun establecimiento nuevo por mas que se ponderen sus ventajas:,neutral,Yes
+G00Q251[3].,es menester que se guarde bien de contribuir ni con sus caudales ni con sus tareas á ningun establecimiento nuevo por mas que se ponderen sus ventajas:,negative,No
+G00Q253[1].,"Mas yo no sé como entorpecidas por una especie de encanto mis piernas, al primer paso que fuí a dar caí tendido en tierra, de que no sin mucha fatiga pude levantarme.",positive,No
+G00Q253[2].,"Mas yo no sé como entorpecidas por una especie de encanto mis piernas, al primer paso que fuí a dar caí tendido en tierra, de que no sin mucha fatiga pude levantarme.",neutral,Yes
+G00Q253[3].,"Mas yo no sé como entorpecidas por una especie de encanto mis piernas, al primer paso que fuí a dar caí tendido en tierra, de que no sin mucha fatiga pude levantarme.",negative,No
+G00Q252[1].,es menester que se guarde bien de contribuir ni con sus caudales ni con sus tareas á ningun establecimiento nuevo por mas que se ponderen sus ventajas:,positive,No
+G00Q252[2].,es menester que se guarde bien de contribuir ni con sus caudales ni con sus tareas á ningun establecimiento nuevo por mas que se ponderen sus ventajas:,neutral,Yes
+G00Q252[3].,es menester que se guarde bien de contribuir ni con sus caudales ni con sus tareas á ningun establecimiento nuevo por mas que se ponderen sus ventajas:,negative,No
+G00Q254[1].,La verdadera gloria consiste en merecer la gloria.,positive,No
+G00Q254[2].,La verdadera gloria consiste en merecer la gloria.,neutral,Yes
+G00Q254[3].,La verdadera gloria consiste en merecer la gloria.,negative,No
+G00Q255[1].,Basten para acreditarlo algunas expresiones que van de bastardilla por su singular belleza y exâctitud.,positive,No
+G00Q255[2].,Basten para acreditarlo algunas expresiones que van de bastardilla por su singular belleza y exâctitud.,neutral,Yes
+G00Q255[3].,Basten para acreditarlo algunas expresiones que van de bastardilla por su singular belleza y exâctitud.,negative,No
+G00Q256[1].,"Declara este Tribunal que no se admiten empeños ni resortes para que se inserten cartas ni otros papeles en el periódico que publica, pues bastará solo el mérito de la obra para que nosotros lo hagamos sin necesidad de ellos;",positive,No
+G00Q256[2].,"Declara este Tribunal que no se admiten empeños ni resortes para que se inserten cartas ni otros papeles en el periódico que publica, pues bastará solo el mérito de la obra para que nosotros lo hagamos sin necesidad de ellos;",neutral,Yes
+G00Q256[3].,"Declara este Tribunal que no se admiten empeños ni resortes para que se inserten cartas ni otros papeles en el periódico que publica, pues bastará solo el mérito de la obra para que nosotros lo hagamos sin necesidad de ellos;",negative,No
+G00Q257[1].,"La aurora de un nuevo periódico se presenta apacible á la sociedad, y la anima con indecible esplendor.",positive,No
+G00Q257[2].,"La aurora de un nuevo periódico se presenta apacible á la sociedad, y la anima con indecible esplendor.",neutral,Yes
+G00Q257[3].,"La aurora de un nuevo periódico se presenta apacible á la sociedad, y la anima con indecible esplendor.",negative,No
+G00Q258[1].,"El sexô femenil se concentró en las gracias naturales y sencillas que le dió naturaleza, suprimió los vaidos fingidos, los melindres pueriles, y dexó de hablar tan á menudo de sus jaquecas y vapores.",positive,No
+G00Q258[2].,"El sexô femenil se concentró en las gracias naturales y sencillas que le dió naturaleza, suprimió los vaidos fingidos, los melindres pueriles, y dexó de hablar tan á menudo de sus jaquecas y vapores.",neutral,Yes
+G00Q258[3].,"El sexô femenil se concentró en las gracias naturales y sencillas que le dió naturaleza, suprimió los vaidos fingidos, los melindres pueriles, y dexó de hablar tan á menudo de sus jaquecas y vapores.",negative,No
+G00Q259[1].,"Me parece haber hablado sin adhesion, y sin usar de términos ofensivos, solo por el bien de la humanidad.",positive,No
+G00Q259[2].,"Me parece haber hablado sin adhesion, y sin usar de términos ofensivos, solo por el bien de la humanidad.",neutral,Yes
+G00Q259[3].,"Me parece haber hablado sin adhesion, y sin usar de términos ofensivos, solo por el bien de la humanidad.",negative,No
+G00Q260[1].,"El teatro, decía yo, que deberia ser la escuela de las costumbres de la Nacion, es en España la escuela de la supersticion, del engaño, y de todos los vicios.",positive,No
+G00Q260[2].,"El teatro, decía yo, que deberia ser la escuela de las costumbres de la Nacion, es en España la escuela de la supersticion, del engaño, y de todos los vicios.",neutral,Yes
+G00Q260[3].,"El teatro, decía yo, que deberia ser la escuela de las costumbres de la Nacion, es en España la escuela de la supersticion, del engaño, y de todos los vicios.",negative,No
+G00Q261[1].,"A buen seguro que no es ningun media cuchara, sino un hombre muy hecho, ó se me alcanza poco de achaque de estilos.",positive,No
+G00Q261[2].,"A buen seguro que no es ningun media cuchara, sino un hombre muy hecho, ó se me alcanza poco de achaque de estilos.",neutral,Yes
+G00Q261[3].,"A buen seguro que no es ningun media cuchara, sino un hombre muy hecho, ó se me alcanza poco de achaque de estilos.",negative,No
+G00Q262[1].,"Diferentes sectas religiosas, costumbres diversas dividian las opiniones de los desdichados Selenitas.",positive,No
+G00Q262[2].,"Diferentes sectas religiosas, costumbres diversas dividian las opiniones de los desdichados Selenitas.",neutral,Yes
+G00Q262[3].,"Diferentes sectas religiosas, costumbres diversas dividian las opiniones de los desdichados Selenitas.",negative,No
+G00Q263[1].,"y tales comilonas, las quiero por el provecho de mi salud, en todos los primeros Lunes de cada mes.",positive,No
+G00Q263[2].,"y tales comilonas, las quiero por el provecho de mi salud, en todos los primeros Lunes de cada mes.",neutral,Yes
+G00Q263[3].,"y tales comilonas, las quiero por el provecho de mi salud, en todos los primeros Lunes de cada mes.",negative,No
+G00Q264[1].,"Quémense pues al momento; pero entonces fuera preciso llevar á la hoguera (¡y con quánta mas razon!) todos los ensayos sobre materias particulares, todo discurso suelto, y añadir los compendios, y aun todo libro que tenga índice, pues no se ignora que los índices son, sus maestros mas queridos.",positive,No
+G00Q264[2].,"Quémense pues al momento; pero entonces fuera preciso llevar á la hoguera (¡y con quánta mas razon!) todos los ensayos sobre materias particulares, todo discurso suelto, y añadir los compendios, y aun todo libro que tenga índice, pues no se ignora que los índices son, sus maestros mas queridos.",neutral,Yes
+G00Q264[3].,"Quémense pues al momento; pero entonces fuera preciso llevar á la hoguera (¡y con quánta mas razon!) todos los ensayos sobre materias particulares, todo discurso suelto, y añadir los compendios, y aun todo libro que tenga índice, pues no se ignora que los índices son, sus maestros mas queridos.",negative,No
+G00Q265[1].,"Nos quexamos continuamente de que nuestros dias son breves, y vivimos como si debiesen ser eternos.",positive,No
+G00Q265[2].,"Nos quexamos continuamente de que nuestros dias son breves, y vivimos como si debiesen ser eternos.",neutral,Yes
+G00Q265[3].,"Nos quexamos continuamente de que nuestros dias son breves, y vivimos como si debiesen ser eternos.",negative,No
+G00Q266[1].,"Ya he demostrado que el tiempo que se pierde en el ocio, es el mas largo y mas enfadoso.",positive,No
+G00Q266[2].,"Ya he demostrado que el tiempo que se pierde en el ocio, es el mas largo y mas enfadoso.",neutral,Yes
+G00Q266[3].,"Ya he demostrado que el tiempo que se pierde en el ocio, es el mas largo y mas enfadoso.",negative,No
+G00Q267[1].,"Los dos sexôs, y todos los estados de la república estan inficionados.",positive,No
+G00Q267[2].,"Los dos sexôs, y todos los estados de la república estan inficionados.",neutral,Yes
+G00Q267[3].,"Los dos sexôs, y todos los estados de la república estan inficionados.",negative,No
+G00Q268[1].,aplaude la buena educacion Francesa;,positive,No
+G00Q268[2].,aplaude la buena educacion Francesa;,neutral,Yes
+G00Q268[3].,aplaude la buena educacion Francesa;,negative,No
+G00Q269[1].,"Si vmd. ama mas las alabanzas que el mérito, aborrezca á lo ménos todo lo que es comun, y no tolere que ninguna persona tenga la osadía de alabarle en su presencia.",positive,No
+G00Q269[2].,"Si vmd. ama mas las alabanzas que el mérito, aborrezca á lo ménos todo lo que es comun, y no tolere que ninguna persona tenga la osadía de alabarle en su presencia.",neutral,Yes
+G00Q269[3].,"Si vmd. ama mas las alabanzas que el mérito, aborrezca á lo ménos todo lo que es comun, y no tolere que ninguna persona tenga la osadía de alabarle en su presencia.",negative,No
+G00Q270[1].,"Es gallardo jóven, tiene los ojos mas negros, y los dientes mas blancos que he visto en el mundo.",positive,No
+G00Q270[2].,"Es gallardo jóven, tiene los ojos mas negros, y los dientes mas blancos que he visto en el mundo.",neutral,Yes
+G00Q270[3].,"Es gallardo jóven, tiene los ojos mas negros, y los dientes mas blancos que he visto en el mundo.",negative,No

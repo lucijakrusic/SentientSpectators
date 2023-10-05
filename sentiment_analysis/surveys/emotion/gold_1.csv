@@ -1,0 +1,64 @@
+﻿question_code,emotion_annotation,sentence
+G01Q01,anger,"Mi pobre Vecino, posseìdo de una furiosa frenesì, enagenado de sì mismo, y sofocado de rabia, se enfurecia, y maldecia su fortuna, y precipitada audácia."
+G01Q05,joy,"Su tierno corazon, su espiritu admirable, su modestia, su urbanidad, su bella presencia, su buena crianza, y la obligacion que tengo à sus rendimientos, desde el primer momento que me viò, merecen la atencion de qualquiera."
+G01Q8,surprise,No es chanza: la mayor parte de los hombres no saben santiguarse.
+G01Q52,sadness,"Y ha de saber Vm. que por la vanidad de estas gentes tienen atadas las manos algunos vecinos de caudal, que como buenos vasallos, desean corresponder á las piadosas intenciones de nuestro Católico Monarca, y concurrir con sus facultades para el remedio de los pobres, que son muchos en este Pueblo."
+G01Q10,trust,"La lectura à que yo intento conduciros, solo podrà mejorar vuestro talento, y éste tambien lograrà enmendarse por medio de la prudencia, y discrecion en todo."
+G01Q11,fear,"Huid, Señora, de éstas, y preferid à su comunicacion la de las mas viles, y comunes mugeres; porque éstas no son, sino Demonios con faldas."
+G01Q13,trust,"Convencerá tal vez nuestro espiritu; pero poco importa: no gana, no somete nuestro corazon; y à pesar de sus raciocinios artificiosos, tenemos bastante fuerza para resistirle"
+G01Q14,surprise,"Una muger hermosa, y entendida nos convence casi sin que lo conozcamos."
+G01Q56,no emotion,"Semejantes documentos, apenas se aprenderán en un mes."
+G01Q57,joy,"Pero pocas Damas tengo báxo mi direccion, que desde que entraron en mi academia, no sepan dar un golpe de Abanico, sin que se oiga de una extremidad de la sala á otra; ántes bien descargan unos golpes tan fuertes, que el ruido iguala al de un pistolete."
+G01Q15,no emotion,Esta parte es la mas dificultosa de todo el exercicio.
+G01Q58,no emotion,"Tiene un gabinete muy primoroso donde se retira á las horas señaladas: allí se compone, y allí dice sus oraciones."
+G01Q17,joy,"Las quisieron virtuosas, y las tienen virtuosas: ellas les conquistaron con el recato el miramiento, el pundonor, y el retiro, y asi ellos no tienen de que arrepentirse, porque se hallan con mugeres recatadas, de miramiento, pundonorosas, y retiradas."
+G01Q61,no emotion,"El de la izquierda encerraba imprecaciones, juramentos, ansias y congojas"
+G01Q62,surprise,"Quanto mas lo miraba tanto mas me parecia haberle visto en cierto pais, sin poderme acordar ni del tiempo, ni del parage."
+G01Q18,surprise,"Finalmente, era lo mas recóndito de él, y con el auxîlio de nuestros microscopios descubrimos un hombre pequeñito vestido de color de panza de sapo muy a lo petimetre."
+G01Q64,joy,"Pero una vez que veo con tanto gusto de mi corazon los religiosos sentimientos del suyo, desde luego le doy y recibo la enhorabuena  [joy]"
+G01Q65,anger,¡O miserables traductores!
+G01Q19,trust,"Y finalmente, que le traba como à hombre, para que llegase à serlo."
+G01Q20,no emotion,"Si estuviese en su lugar, me decia yo á mí mismo,  [no emotion]"
+G01Q67,joy,"Señor Regañon: Como buen amante de la patria no puedo ménos de confesar á vmds. que habiendo leido los Números 1 y 2 de su periódico acerca de las costumbres públicas, me llené de alegría al ver los juiciosos y acertados pensamientos que en él se vertian, y me propuse desde luego escribir á vmd. dándole las gracias por su comunicacion, y por el buen zelo que muestra en un negocio que tanto interesa á la felicidad de la nacion."
+G01Q68,joy,"Tambien suelo yo sonar en mi tinaja, porque, aunque no muy ancho, por fin duermo: esto me sucedió la otra noche, que habiéndome entretenido de dia en leer un discurso del célebre Adisson, tuve por el mismo estilo un sueño, que no puedo dexar de manifestar á su Tribunal de vmd"
+G01Q69,anger,"Todavía por nuestra desgracia no se han acabado de desarraygar entre la gente crédula los temores que conservan á los duendes, difuntos y fantasmas.     [anger]"
+G01Q70,no emotion,"Pero en obsequio de la verdad debo decir, que para volver á leer la carta del Amigo de los Jóvenes es menester hígados, y que solo por la nota que lleva al principio puede conocerse á lo que se dirige, ni mas ni ménos que los quadros de aquel pintor, que solo se conocia lo que representaban por un rótulo que ponia debaxo     [no emotion]"
+G01Q71,no emotion,El siguiente nos darà una breve idèa del amor.
+G01Q22,no emotion,"ò lo que es mas cierto, es algun chusco de primera clase, y pretende con esta estratagema ver si corresponden las obras á las palabras: en fin sea lo que fuere, yo debo cumplir lo prometido, sin entremeterme á investigár el motivo de su demanda.      [no emotion]"
+G01Q23,anticipation,Otra semana sabrèmos los demás articulos de esta Pragmatica.
+G01Q24,no emotion,"ò lo que es mas cierto, es algun chusco de primera clase, y pretende con esta estratagema ver si corresponden las obras á las palabras: en fin sea lo que fuere, yo debo cumplir lo prometido, sin entremeterme á investigár el motivo de su demanda        [no emotion]"
+G01Q26,no emotion,"Lo mismo dice el Entretenido, y pasa adelante."
+G01Q27,no emotion,"La oferta no era friolera: asi fue llamado à un gavinete, en donde estando con el tyrano à solas: el secreto, señor, le dixo, consiste en que V. M. publique que en efecto se lo he comunicado; y para que todo el mundo lo crea, me dé à mí V. M. como en recompensa un millon.     Following sentence(s):  Un millon! ¿Sabes lo que pides? ¡Un millon! ¿No bastarian diez mil reales?  [no emotion]"
+G01Q28,no emotion,"Apostaré algo de bueno, à que algun artificio se ha inventado por gentes mal intencionadas, para hacer que llenen de arrugas las mayores bellezas.     Following sentence(s):  Si esto es asi como me lo imagino, lo que debiera hacer esta Dama es, recurrir à la autoridad pública, para que bajo las penas mas severas prohiba, como genero de contravando todos los espejos que hagan parecer viejas las mugeres de quarenta años.  [no emotion]"
+G00Q52,anger,"Nos haria Vmd. tambien un favor, à que deberiamos un eterno reconocimiento, en interesarse con ellos para que yá que la fortuna no ha querido tratarnos mas favorablemente, y yá que no nos es dado gozar todas las ventajas de una Corte, tengan la bondad de dexarnos vivir contentos con nuestra suerte, y con nuestras cosas, y no nos estén continuamente dando en cara con nuestra rusticidad."
+G00Q53,sadness,"Semejantes al perro de la fabula, que suelta el bocado que tiene entre los colmillos por el que juzga ver en el agua; dexan los verdaderos placeres que la naturaleza les está franqueando al rededor suyo, por otros que les finge su imaginacion à larga distancia."
+G00Q55,joy,"Reynaba en todos el contento, y el ayre resonaba con los alegres cantares de que acompañaban su trabajo."
+G00Q58,no emotion,Mi abuelo mataba Moros como asi me lo quiero.
+G00Q62,joy,"Mis cabellos son mas obscuros que el corazon de un ignorante, y tan largos, que pueden ser envidiados de las mismisimas trenzas de las Ninfas del Parnaso; mi cuerpo es tan alto como pueden ser los pensamientos de Vmd. con el aditamento de un tallecito mas estrecho que la mano de un avaro."
+G00Q64,anger,"Es una vergüenza, un escándalo"
+G00Q65,sadness,¿Hé de verme yo obligada hasta la muerte (que continuamente estaré deseando por considerarla término de mis infelicidades) á hacerme criada del que aborrezco?
+G00Q68,no emotion,"Nada tengo de zeloso, y antes me fastidian notablemente los maridos que andan siempre aforrados en sus mugeres."
+G00Q70,no emotion,"El leon sabiamente ocupado en dar curso á objetos importantes de su real instituto, Llamó á los Abogados, y Jueces de este asunto, y con voz muy severa como Rey les habló de esta manera."
+G00Q73,no emotion,"Mi amiga me ha dicho que Vm. no gusta de las Monjas disgustadas; por esto no hemos de tener quiebra, pues aunque, como he dicho, estuve disgustadilla, ya he caido en la cuenta, y he dado en el punto, conociendo que mas son los bienes que los males."
+G00Q74,no emotion,"No Señor, no soy yo asi, no soy ningun satírico chocarrero; yo hablo de veras, y con vm. en todo caso no me habia de chancear"
+G00Q76,no emotion,"Tambien es de admirar el entusiasmo con que sus mercedes nos pregonan, y aun nos muelen la cabeza con sus globos, con sus gases y aereas caminatas, ni mas ni ménos que si ellos lo hubieran proyectado y discurrido."
+G00Q77,no emotion,"Aunque supongo vuestra universal erudicion en todo género de literatura, no es razon que empleeis vuestro talento en aquellas ciencias que por su aridez y abstraccion os deberian obligar á que anduvieseis siempre pensativos, y como fuera de vosotros, con notable perjuicio de vuestra importante salud."
+G00Q80,anger,No puedo menos de irritarme al oir semejantes despropositos y locuras.
+G00Q84,sadness,"Que yo pobre de mí me veía lánguido y estenuado, postrado en una cama, abandonado hasta del mas ínfimo sirviente."
+G00Q86,sadness,"Los desgraciados no ven en su padre un protector y zelador de sus felicidades, y sí un monstruo que solo les ha dado el ser para que sean testigos de sus delitos, y esclavos de sus desordenados é injustos caprichos; estas son pues las conseqüencias del juego inmoderado."
+G00Q91,sadness,"El padre no podia fiarse de su hijo, la mujer engañaba al marido, el criado era infiel á su amo, la sana amistad, la tierna fraternidad no eran mas que máscaras que ocultaban los mas perversos designios: toda virtud estaba desterrada, reynando en su lugar la hipocresía."
+G00Q93,no emotion,"Y si por el contrario merecen e desprecio y olvido, debe clamar contra ellas para que no suenen entre los hombres, y mandar se quemen los libros que las contienen, ó al menos mandar expurgarlos: poco quedara de ellos si esto se hace."
+G00Q96,no emotion,"Para decir que esta comedia no es buena no hay necesidad de ensangrentarse añadiendo que el discurso preliminar es un fárrago de ideas insulsas é inconexas expuestas en un estilo todavía mas insulso y despreciable, sin conocimientos, ni gusto, ni lógica siquiera"
+G00Q101,trust,"Honrado sin afectacion, sincero en realidad, complaciente sin baxeza, servicial sin interes, humano y benéfico, es el santuario de la virtud."
+G00Q104,no emotion,"Es cierto que el amor propio conociendo esta verdad suministra á los vengativos razones especiosas para cohonestar sus feas acciones, pero estas mismas demuestran su debilidad y falta de talento."
+G00Q105,no emotion,"El hombre tierno y compasivo es el que disfruta las riquezas, y no el avariento que las amontona, ni el mundano que las malgasta en falsos placeres"
+G00Q106,joy,"Y por último, manifestó su piedad y religión quitando del suplicio a tres reos que iban a ser ajusticiados (juzgo) que en un día privilegiado."
+G00Q108,no emotion,"Nó se metió con las Damas; que el Duende es mui Caballero, i ni aún en chanza les falta á las Dámas el respeto."
+G00Q111,no emotion,"Rióse el amigo, oyendo los despropositos del Oficial codicioso, y le dixo: Bien conozco, que le acomodara à V.m. bellamente el titulo de Marido, y que lo serà de gusto, y à la Moda."
+G00Q120,sadness,"Pero con hacienda presente, con titulos en prespectiva, con nacimiento aventajado, que no puedan las consideraciones placenteras dèl gozar: y por esto es dificil resolverme à renunciar à los recreos, y diversiones ruidosas de la Corte."
+G00Q123,no emotion,"Sin embargo de las restricciones de tu honestidad, todo te viene como pintado, y es en tì primor aun el descuido."
+G00Q126,sadness,Está capáz de entristecer à la compañia mas alegre.
+G00Q127,sadness,Está capáz de entristecer à la compañia mas alegre.
+G00Q131,joy,Es un Fenix entre los hombres.
+G00Q132,joy,Es un Fenix entre los hombres.
+G00Q134,sadness,"Conociò su yerro, y procurò enmendarlo escribiendo segunda Carta, que empezò por Mi Señor; pero fuè inutil la enmienda."
