@@ -1,0 +1,23 @@
+question_code,sentence,annotation
+G01Q8,No es chanza: la mayor parte de los hombres no saben santiguarse.,surprise
+G01Q11,"Huid, Señora, de éstas, y preferid à su comunicacion la de las mas viles, y comunes mugeres; porque éstas no son, sino Demonios con faldas.",fear
+G01Q13,"Convencerá tal vez nuestro espiritu; pero poco importa: no gana, no somete nuestro corazon; y à pesar de sus raciocinios artificiosos, tenemos bastante fuerza para resistirle",trust
+G01Q60,"Una muger de esta cláse, es sucia en su casa, golosa en su mesa, desaliñada en sus vestidos y persona, y la habitacion que ella ocupa, se asemeja á una caballeriza.",disgust
+G01Q64,"Pero una vez que veo con tanto gusto de mi corazon los religiosos sentimientos del suyo, desde luego le doy y recibo la enhorabuena",joy
+G01Q67,"Señor Regañon: Como buen amante de la patria no puedo ménos de confesar á vmds. que habiendo leido los Números 1 y 2 de su periódico acerca de las costumbres públicas, me llené de alegría al ver los juiciosos y acertados pensamientos que en él se vertian, y me propuse desde luego escribir á vmd. dándole las gracias por su comunicacion, y por el buen zelo que muestra en un negocio que tanto interesa á la felicidad de la nacion.",joy
+G00Q55,"Reynaba en todos el contento, y el ayre resonaba con los alegres cantares de que acompañaban su trabajo.",joy
+G00Q64,"Es una vergüenza, un escándalo",anger
+G00Q72,"No puedo sufrir ver hacer actos de virtud y devocion á los logreros, usureros, comerciantes de mala fé, avaros, codiciosos, y á los de una economia sórdida",disgust
+G00Q80,No puedo menos de irritarme al oir semejantes despropositos y locuras.,anger
+G00Q84,"Que yo pobre de mí me veía lánguido y estenuado, postrado en una cama, abandonado hasta del mas ínfimo sirviente.",sadness
+G00Q141,"Confiesso à Vm. que yá no puedo sufrir la vida, que traygo con este afligido genio mio.",sadness
+G00Q143,"Muriò en mis brazos, y en el desorden, en que me hallaba, me pareciò, que su pecho aùn respiraba.",sadness
+G00Q152,¡què mal lo conoce V. M.!,surprise
+G00Q205,"Se le presentaba siempre lleno el semblante de serenidad, y tan contenta como pudiera en medio de la abundancia y las riquezas.",joy
+G00Q206,"Y estos mismos amigos le miran con indiferencia, punto menos que en la miseria de que él los sacó, y de que son ellos la verdadera causa.",anger
+G00Q210,"pero un accidente peor para mí que una buena enfermedad me obliga à guardar Casa por algunos dias, y à no presentarme donde Gentes me vean la cara, hasta que à todas se les haya borrado de la imaginacion mi fisonomía.",fear
+G00Q215,"A mí me hizo reir este ofrecimiento, mas no asi al otro, à quien antes le irritó tanto, que à breves razones vino à decirle que era un herege, y que su proposicion era no tan solamente impía, heretica, erronea, y escandalosa, sino tambien capciosa, y piarum aurium ofensiva:",anger
+G00Q227,¡Qué delicia no sería oirlas entonar con sus encantadoras voces el Te Franciscum laudamus por alguna victoria contra infieles!,joy
+G00Q232,"Una cosa semejante creen ellos que ha de sucederles en el Tribunal Supremo, respecto de aquellas acciones delinqüentes, en las quales tienen por complice á la muchedumbre.",no emotion
+G00Q244,"antes mas me le afeminaron, y era tal el temor que me causaban los Duendes, que en oyendo á á",fear
+G00Q253,"Mas yo no sé como entorpecidas por una especie de encanto mis piernas, al primer paso que fuí a dar caí tendido en tierra, de que no sin mucha fatiga pude levantarme.",surprise
