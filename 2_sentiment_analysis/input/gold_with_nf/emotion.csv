@@ -1,0 +1,53 @@
+question_code,sentence,annotation,nf,file
+G01Q01,"Mi pobre Vecino, posseìdo de una furiosa frenesì, enagenado de sì mismo, y sofocado de rabia, se enfurecia, y maldecia su fortuna, y precipitada audácia.",anger,LB,1762-1763_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-3_Nr-037_107-692_FR.12.txt
+G01Q07,"Mi muger aborrece hasta el nombre de Cortejo, y su sencillèz no le permite entender cómo puede haver Dama, que tenga intimidad, llaneza, ni confianzas con quien no es su marido.",disgust,SP,1762-1763_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-1_Nr-06_096-314.txt
+G01Q8,No es chanza: la mayor parte de los hombres no saben santiguarse.,surprise,SP,1762-1763_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-1_Nr-06_096-314.txt
+G01Q10,"La lectura à que yo intento conduciros, solo podrà mejorar vuestro talento, y éste tambien lograrà enmendarse por medio de la prudencia, y discrecion en todo.",trust,FP, 1762-1763_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-3_Nr-029_107-684.txt
+G01Q11,"Huid, Señora, de éstas, y preferid à su comunicacion la de las mas viles, y comunes mugeres; porque éstas no son, sino Demonios con faldas.",fear,FP,1762-1763_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-3_Nr-030_107-685.txt
+G01Q13,"Convencerá tal vez nuestro espiritu; pero poco importa: no gana, no somete nuestro corazon; y à pesar de sus raciocinios artificiosos, tenemos bastante fuerza para resistirle",trust,SP, 1762-1763_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-3_Nr-031_107-686.txt
+G01Q60,"Una muger de esta cláse, es sucia en su casa, golosa en su mesa, desaliñada en sus vestidos y persona, y la habitacion que ella ocupa, se asemeja á una caballeriza.",disgust,S, 1788_El-Filósofo-á-la-Moda_Anónimo_Vol-1_Nr-018_111-799.txt
+G01Q62,"Quanto mas lo miraba tanto mas me parecia haberle visto en cierto pais, sin poderme acordar ni del tiempo, ni del parage.",surprise,TR, 1788_El-Filósofo-á-la-Moda_Anónimo_Vol-2_Nr-002_111-801.txt
+G01Q64,"Pero una vez que veo con tanto gusto de mi corazon los religiosos sentimientos del suyo, desde luego le doy y recibo la enhorabuena",joy,LB, 1800_El-Catón-Compostelano_Anónimo-(Francisco-del-Valle-Inclán)_Vol-1_Nr-19_2072.txt
+G01Q65,¡O miserables traductores!,anger,LB, 1803_El-Regañón-general_Anónimo-(Ventura-Ferrer)_Vol-1_Nr-07_2353.txt
+G01Q19,"Y finalmente, que le traba como à hombre, para que llegase à serlo.",trust,FP, 67_El-Pensador_Joseph-Álvarez-y-Valladares-(José-Clavijo-y-Faxardo)_Vol-5_Nr-064_109-741.txt
+G01Q66,"Mi primer intento, dice, fué purgar aquel despreciable embrion de sus muchos errores, para poderlo leer en una tertulia de amigos;",disgust,S;LB, 1803_El-Regañón-general_Anónimo-(Ventura-Ferrer)_Vol-1_Nr-08_2354.txt
+G01Q67,"Señor Regañon: Como buen amante de la patria no puedo ménos de confesar á vmds. que habiendo leido los Números 1 y 2 de su periódico acerca de las costumbres públicas, me llené de alegría al ver los juiciosos y acertados pensamientos que en él se vertian, y me propuse desde luego escribir á vmd. dándole las gracias por su comunicacion, y por el buen zelo que muestra en un negocio que tanto interesa á la felicidad de la nacion.",joy,MT, 1803_El-Regañón-general_Anónimo-(Ventura-Ferrer)_Vol-1_Nr-13_2359.txt
+G01Q70,"Pero en obsequio de la verdad debo decir, que para volver á leer la carta del Amigo de los Jóvenes es menester hígados, y que solo por la nota que lleva al principio puede conocerse á lo que se dirige, ni mas ni ménos que los quadros de aquel pintor, que solo se conocia lo que representaban por un rótulo que ponia debaxo",no emotion,LB,1803_El-Regañón-general_Anónimo-(Ventura-Ferrer)_Vol-1_Nr-33_2907_FR.5.txt
+G01Q23,Otra semana sabrèmos los demás articulos de esta Pragmatica.,anticipation,MT,http://gams.uni-graz.at/archive/objects/o:mws.2729/methods/sdef:TEI/get?locale=fr&mode=analyse&context=
+G01Q26,"Lo mismo dice el Entretenido, y pasa adelante.",no emotion,MT,http://gams.uni-graz.at/archive/objects/o:mws.2729/methods/sdef:TEI/get?locale=fr&mode=analyse&context=
+G00Q55,"Reynaba en todos el contento, y el ayre resonaba con los alegres cantares de que acompañaban su trabajo.",joy,MT,http://gams.uni-graz.at/archive/objects/o:mws.2729/methods/sdef:TEI/get?locale=fr&mode=analyse&context=
+G00Q56,"Que enemigo de toda nueva resolucion sea el Patrono declarado de la holgazanería, el error, y la ignorancia,",disgust,MT,http://gams.uni-graz.at/archive/objects/o:mws.2729/methods/sdef:TEI/get?locale=fr&mode=analyse&context=
+G00Q64,"Es una vergüenza, un escándalo",anger,FP,1786-1788_El-Corresponsal-del-Censor_Anónimo_Vol-1_Nr-08_105-612.txt
+G00Q72,"No puedo sufrir ver hacer actos de virtud y devocion á los logreros, usureros, comerciantes de mala fé, avaros, codiciosos, y á los de una economia sórdida",disgust,P,1786-1788_El-Corresponsal-del-Censor_Anónimo_Vol-4_Nr-39_091-132.txt
+G00Q80,No puedo menos de irritarme al oir semejantes despropositos y locuras.,anger,S,1786_El-Apologista-Universal_Anónimo_Vol-1_Nr-07_114-864.txt
+G00Q84,"Que yo pobre de mí me veía lánguido y estenuado, postrado en una cama, abandonado hasta del mas ínfimo sirviente.",sadness,TR,1803_El-Regañón-general_Anónimo-(Ventura-Ferrer)_Vol-1_Nr-56_5401.txt
+G00Q117,"No hay peor compañia, que la de ancianos encaprichados del privilegio de sus años, que reducidos al silencio, dicen, que las materias no son para los de edad regular.",disgust,,
+G00Q121,"Los que llamamos Poderosos, viven en una esplendida, y orgullosa miseria, siempre necessitados;",disgust,,
+G00Q126,Está capáz de entristecer à la compañia mas alegre.,sadness,,
+G00Q133,"Pero todo esto es inutil, y èl ha hallado el modo de obscurecer las prendas, de que està adornado, entregandose à tantos vicios, y haciendo una vida tan licenciosa, que es el escandalo de la Corte.",disgust,,
+G00Q141,"Confiesso à Vm. que yá no puedo sufrir la vida, que traygo con este afligido genio mio.",sadness,,
+G00Q142,"Algunas veces me contento con arquear las cejas, y encoger los hombros.",no emotion,,
+G00Q143,"Muriò en mis brazos, y en el desorden, en que me hallaba, me pareciò, que su pecho aùn respiraba.",sadness,,
+G00Q152,¡què mal lo conoce V. M.!,surprise,,
+G00Q164,"Ni tantos ancianos, que en la mas estrecha angustia de la escaséz, buscan el pan con el doble sudor de su rostro, sudan en adquirirle mendigando, y sudan con la vergüenza de haberle de procurar pidiendo.",sadness,,
+G00Q171,"¡valgate Dios por nombre, que aún assi engendras sustos, parasismos, y aborrecimiento!",disgust,,
+G00Q174,"Lucio es un ingrato, es un Hombre, que entrega â el olvido los mayores favores, pues en el tiempo de su miseria le socorrì con generosidad, y ahora que yá de nadie necessita, no hace caso de quien tanto le sirviò",disgust,,
+G00Q176,"Tenía muchissima confianza de mi, como que se hacía cargo de la prenda, que tenìa en Casa.",trust,,
+G00Q179,"Estas fingidas esperanzas, y las importunas ponderaciones de todos los que me trataban, como conquistados de sus regalos, me llevaron voluntariamente â manos de mi mayor desgracia.",sadness,,
+G00Q184,"Señora Culta, su Carta es un farrago de los mas despreciables, y en su obscuro contexto se mira la satisfaccion de su duda.",disgust,,
+G00Q185,"Yo por mi desgracia me hallo Casada con un Curioso tan fino, que por la menor novedad que se le presente, se estará dos dias sin venir â casa, hasta conseguir hallarse informado de sus menores circunstancias, para despues tener assumpto flamante en las Tertulias",sadness,,
+G00Q205,"Se le presentaba siempre lleno el semblante de serenidad, y tan contenta como pudiera en medio de la abundancia y las riquezas.",joy,,
+G00Q206,"Y estos mismos amigos le miran con indiferencia, punto menos que en la miseria de que él los sacó, y de que son ellos la verdadera causa.",anger,,
+G00Q210,"pero un accidente peor para mí que una buena enfermedad me obliga à guardar Casa por algunos dias, y à no presentarme donde Gentes me vean la cara, hasta que à todas se les haya borrado de la imaginacion mi fisonomía.",fear,,
+G00Q190,"De aqui es que no hablará una palabra en asunto de la moda, aquel ente que, en sentir de nuestros Catones, trae en perpetuo jiro y continuo mobimiento los cerebros vacíos, ligeros, y volatiles.",no emotion,,
+G00Q191,"Tal qual diamantillo tiene; pero lo demás son chispas, y todo ello de muy mal gusto.",disgust,,
+G00Q215,"A mí me hizo reir este ofrecimiento, mas no asi al otro, à quien antes le irritó tanto, que à breves razones vino à decirle que era un herege, y que su proposicion era no tan solamente impía, heretica, erronea, y escandalosa, sino tambien capciosa, y piarum aurium ofensiva:",anger,,
+G00Q216,"Es un cobarde, un vil, un indigno de los honores que goza, y de alternar con quien tenga el corazon bien puesto.",disgust,,
+G00Q227,¡Qué delicia no sería oirlas entonar con sus encantadoras voces el Te Franciscum laudamus por alguna victoria contra infieles!,joy,,
+G00Q231,"y como nadie hasta ahora se habia acordado de mí para este efecto, y debia trabajarlo todo por mí mismo, me iba desanimando poco á poco de mi empeño.",sadness,,
+G00Q232,"Una cosa semejante creen ellos que ha de sucederles en el Tribunal Supremo, respecto de aquellas acciones delinqüentes, en las quales tienen por complice á la muchedumbre.",no emotion,,
+G00Q234,"La miseria iba á oprimirme, y no me quedaba ya sino este infame medio para librarme de una inminente ruina.",fear,,
+G00Q238,"Le hemos manifestado varias veces quán impropias nos parecen de un hombre bien educado, y quanto nos ofenden éstas y otras expresiones;",anger,,
+G00Q244,"antes mas me le afeminaron, y era tal el temor que me causaban los Duendes, que en oyendo á á",fear,,
+G00Q253,"Mas yo no sé como entorpecidas por una especie de encanto mis piernas, al primer paso que fuí a dar caí tendido en tierra, de que no sin mucha fatiga pude levantarme.",surprise,,
+G00Q257,"La aurora de un nuevo periódico se presenta apacible á la sociedad, y la anima con indecible esplendor.",joy,,
