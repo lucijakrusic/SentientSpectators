@@ -1,4 +1,4 @@
-question_code,sentence,GPT4
+question_code,sentence,GPT4o-advanced
 G01Q01,"Mi pobre Vecino, posseìdo de una furiosa frenesì, enagenado de sì mismo, y sofocado de rabia, se enfurecia, y maldecia su fortuna, y precipitada audácia.",negative
 G01Q02,"Continuamente la oygo decir à sus solas, y mascando, que no quiere hablar, ni decir cosa alguna; pero que teniendo la cabeza sobre la almohada, bien sabe.",negative
 G01Q03,"Matò à un Joven por haver murmurado de la conducta de una Dama, la que èl mismo havia deshonrado con un proceder infame.",positive
